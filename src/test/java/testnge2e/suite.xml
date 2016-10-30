@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="PricingServiceTest" parallel="false">
+<listeners>
+        <listener class-name="testnge2e.custanno.MyTestNGAnnotationListener"/>
+    </listeners>
+	<test name="calc bats">
+	<parameter name="Name" value="C"></parameter>
+	
+	   <groups>
+			<run>
+				<include name="bat"  />
+			</run>
+		</groups>
+		<!-- <classes>
+		<class name="com.intuit.payments.pricing.test.OBTPTest"></class>
+		<class name="com.intuit.payments.pricing.test.OBTP_OfferTest"></class>
+		</classes> -->
+        <packages>
+            <package name="testnge2e"/>
+        </packages>
+	</test>
+</suite>
