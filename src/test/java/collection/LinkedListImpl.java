@@ -1,5 +1,7 @@
 package collection;
 
+import java.util.LinkedList;
+
 public class LinkedListImpl {
 
 	public Node head;
@@ -57,6 +59,7 @@ public class LinkedListImpl {
      }
 
      public static void main(String[] args) {
+    	 LinkedList<String> li = new LinkedList<String>();
  		LinkedListImpl limp = new LinkedListImpl();
  		limp.add("Ab");
  		limp.add("Ab12");
