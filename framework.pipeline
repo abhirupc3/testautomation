@@ -1,0 +1,31 @@
+def smoke = run_smoke
+echo 'value of smoke is :'
+echo smoke
+def reression = run_regression
+def e2ereression = run_e2e_regression
+def doNothing = do_nothing
+echo 'value of smoke'
+echo smoke
+if(doNothing=='false'){
+node {
+   
+   stage 'Checkout'
+   git url: 'https://github.com/jglick/simple-maven-project-with-tests.git'
+   //def mvnHome = tool 'M3'
+    if(smoke=='true') {
+        echo "run smoke is true, Hence running smoke tests"
+        echo smoke
+            stage 'Service_Smoke_Test'
+            build 'Accounts_Smoke_Test'
+        }
+   if(reression=='true') {
+   stage 'Service_Regression_Test'
+   build 'Accounts_Regression_test'
+   }
+     if(e2ereression=='true') {
+   stage 'E2E_Regression_Test'
+   build 'e2e regression'
+     }
+}
+currentBuild.result='SUCCESS'
+}
