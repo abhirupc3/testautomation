@@ -2,7 +2,7 @@ package misc;
 
 public class NumberReverse {
 
-	private static int num=12345;
+	private static int num=144;
 	private static int rev=0;
 	public static void main(String[] args) {
 
