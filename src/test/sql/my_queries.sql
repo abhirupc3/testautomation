@@ -1,3 +1,4 @@
+-- https://livesql.oracle.com
 -- select * from dept
 Select * from scott.dept;
 
@@ -83,3 +84,6 @@ select ename,sal, nvl2(comm, sal+comm,sal) as bonus from scott.emp;
 -- select employees who gets max sal <1700 from each dept
 
 select max(sal), deptno, ename from scott.emp group by deptno,ename having max(sal)<1700 order by max(sal) desc;
+
+-- Like operator
+select * from scott.emp where ename like '%S';

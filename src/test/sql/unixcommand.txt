@@ -1,0 +1,60 @@
+#https://www.tutorialspoint.com/unix_terminal_online.php
+
+#present working directory
+pwd
+# listing all directories and files
+ls -lrta
+
+mkdir testdir
+
+cd testdir
+
+touch file1.txt
+
+cat > file2.txt
+"Hello Java"
+ctrl+d
+
+# edit a file
+vi file2.txt
+## press insert and type data
+## press escape and type :wq for save and exit and only :q to exit.
+
+## To read TOP grep trail
+
+# head : prints first 2 lines of the file
+head -2 filename.txt
+
+# tail: prints last 2 lines of the file and follows
+tail -2f filename.txt
+#tail: just prints last 2 lines of the file
+tail -2 filename.txt
+#ctrl C is to kill the process, ctrl D is the end of file.
+
+#Search for the given string in a single file
+grep "Hello" testFile2.txt
+# Case insensitive grep
+grep -i "hello" testFile2.txt
+#regular expression using grep
+grep -i ".*wo.*" testFile2.txt.
+#search full word
+grep -iw "world" testfile2.txt
+# Print 3 lines after a match happens
+grep -A3 "Unix" textFile2.txt
+# Print 3 lines before match happens
+grep -B3 "unix" testFile2.txt
+#recruisive search using grep
+grep -ir "unix" testFile2.txt
+#ps command
+ps -aux
+ps -ef
+
+#GETTING PROCESS IF
+pidof firefox
+
+# kill a process by force
+kill -9 pid1 pid2
+
+ps -aux | grep firefox
+
+
