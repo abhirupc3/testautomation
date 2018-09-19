@@ -58,3 +58,15 @@ kill -9 pid1 pid2
 ps -aux | grep firefox
 
 
+#chmod
+
+chmod 777 fileName
+
+#copy
+cp file1 destination
+cp testfile2.txt root
+
+#mov
+
+mv testfile2.txt root
+

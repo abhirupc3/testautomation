@@ -10,7 +10,7 @@ select count(empno), e.deptno,d.dname from scott.emp e,scott.dept d where e.dept
 
 --Select all rows from employe
 select * from scott.emp;
--- Select max sal from emp table.
+-- Select max sal and empname from emp table.
 select  ename, sal from scott.emp where sal=(select max(sal) from scott.emp);
 -- max sal from each dept
 select  deptno, max(sal),ename from scott.emp group by deptno; 
