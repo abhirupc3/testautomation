@@ -16,7 +16,7 @@ public class SimpleDateFormatExample {
 		//String to Date
 		
 		String date = "30-11-1980 20:30:45";
-		SimpleDateFormat sm2 = new SimpleDateFormat("DD-MM-YYYY HH:MM:SS");
+		SimpleDateFormat sm2 = new SimpleDateFormat("DD-MM-YYYY hh:mm:ss");
 		Date dte2 = sm2.parse(date);
 		System.out.println(dte2);
 		
