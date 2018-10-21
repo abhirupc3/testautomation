@@ -1,12 +1,16 @@
 package newPreperation.sort.comparator;
 
+import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Collections;
 import java.util.Comparator;
+import java.util.List;
 
 public class MainComparatorExample {
 
 	public static void main(String args[]) {
+		List<Student> stList = new ArrayList<Student>();
+		
 		Student student[] = new Student[3];
 
 		student[0] = new Student();
@@ -20,7 +24,9 @@ public class MainComparatorExample {
 		student[2] = new Student();
 		student[2].setName("Ross");
 		student[2].setGrade(16);
-
+		stList.add(student[0]);
+		stList.add(student[1]);
+		stList.add(student[2]);
 		System.out.println("Order of students before sorting is: ");
 
 		for (int i = 0; i < student.length; i++) {
@@ -29,6 +35,7 @@ public class MainComparatorExample {
 		}
 
 		Arrays.sort(student, new GradeComparator());
+		Collections.sort(stList, new GradeComparator());
 		System.out
 				.println("Order of students after sorting by student grade is");
 

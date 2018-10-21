@@ -14,5 +14,12 @@ public class Callender {
 		System.out.println("Time in millis Is : "+ callender.getTimeInMillis());
 		Random Rn = new Random(Integer.MAX_VALUE);
 		System.out.println(Rn.nextInt());
+		int i[] ={1,2};
+		i = new int[i.length+1];
+		i[0]=5;
+		for (int j = 0; j < i.length; j++) {
+			System.out.println(i[j]);
+		}
+		
 	}
 }
