@@ -16,12 +16,13 @@ select  ename, sal from scott.emp where sal=(select max(sal) from scott.emp);
 select  deptno, max(sal),ename from scott.emp group by deptno; 
 
 -- 2nd highest salary
-
-select ename,sal from (select rownum rn, sal, ename from scott.emp order by rn) where rn=2;
+select sal from (select rownum rnum,sal from(select distinct(sal) from scott.emp order by sal desc)) t where t.rnum=3;
+-- wrong select ename,sal from (select rownum rn, sal, ename from scott.emp order by rn) where rn=2;
 
 -- Top 4 salary
-
-select ename,sal from(select rownum rn, ename,sal from scott.emp order by rn) where rn<=4;
+select sal from (select rownum rnum,sal from(select distinct(sal) from scott.emp order by sal desc)) t where t.rnum<4
+select ename,sal from scott.emp where sal in (select sal from (select rownum rnum,sal from(select distinct(sal) from scott.emp order by sal desc)) t where t.rnum<5) ;
+-- wrong select ename,sal from(select rownum rn, ename,sal from scott.emp order by rn) where rn<=4;
 
 -- query to count duplicate sal
 
