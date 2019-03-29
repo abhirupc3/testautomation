@@ -1,0 +1,103 @@
+#https://www.tutorialspoint.com/unix_terminal_online.php
+
+#present working directory
+pwd
+# listing all directories and files
+ls -lrta
+
+mkdir testdir
+
+cd testdir
+
+#ctrl +d indicates end of file
+# ctrl+c indicates kill process. 
+
+#create an empty file
+touch file1.txt
+
+cat > file2.txt
+"Hello Java"
+ctrl+d
+
+# edit a file
+vi file2.txt
+## press insert and type data
+## press escape and type :wq for save and exit and only :q! to exit.
+
+## To read TOP grep trail
+
+# head : prints first 2 lines of the file
+head -2 filename.txt
+
+# tail: prints last 2 lines of the file and follows
+tail -2f filename.txt
+#tail: just prints last 2 lines of the file
+tail -2 filename.txt
+#ctrl C is to kill the process, ctrl D is the end of file.
+
+#Search for the given string in a single file
+grep "Hello" testFile2.txt
+# Case insensitive grep
+grep -i "hello" testFile2.txt
+#regular expression using grep
+grep -i ".*wo.*" testFile2.txt.
+#search full word
+grep -iw "world" testfile2.txt
+# Print 3 lines after a match happens
+grep -A3 "Unix" textFile2.txt
+# Print 3 lines before match happens
+grep -B3 "unix" testFile2.txt
+#recruisive search using grep
+grep -ir "unix" testFile2.txt
+#ps command
+ps -aux
+ps -ef
+
+#search in current directory and all its sub directory
+
+find . -name *.txt
+
+#search in specific directory and all its sub diretory
+
+find /home/ci-cd -name *.yml
+
+#adding type: this will search a folder with name forder1 in current dir or all its sub dir.
+
+find . -type d -name folder1
+
+#GETTING PROCESS IF
+pidof firefox
+
+# kill a process by force
+kill -9 pid1 pid2
+
+ps -aux | grep firefox
+
+
+#chmod here 777 means for user, group and other read,write and execute
+
+
+# 	Permission 	rwx 	Binary
+#7 	read, write and execute 	rwx 	111
+#6 	read and write 	rw- 	110
+#5 	read and execute 	r-x 	101
+#4 	read only 	r-- 	100
+#3 	write and execute 	-wx 	011
+#2 	write only 	-w- 	010
+#1 	execute only 	--x 	001
+#0 	none 	--- 	000 
+
+
+
+chmod 777 fileName
+
+#copy
+cp file1 destination
+cp testfile2.txt root
+
+#mov
+
+mv testfile2.txt root
+
+whoami
+#above command shows the user name

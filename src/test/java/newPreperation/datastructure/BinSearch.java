@@ -3,7 +3,7 @@ package newPreperation.datastructure;
 public class BinSearch {
 	static int[] arr={1,3,67,89,102,105,209};
 	public static void main(String[] args) {
-            binarySearch(209);
+            binarySearch(2090);
 	}
 
 	public static void binarySearch(int key) {

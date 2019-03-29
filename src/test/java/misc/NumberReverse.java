@@ -4,8 +4,8 @@ public class NumberReverse {
 
 	private static int num=144;
 	private static int rev=0;
+	static Integer i=12;
 	public static void main(String[] args) {
-
 		System.out.println("the originm number is :"+num);
 		System.out.println("the number after reverse is :"+reverse(num));
 	}

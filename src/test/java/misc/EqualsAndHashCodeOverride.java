@@ -4,7 +4,9 @@ import java.util.HashMap;
 import java.util.Map;
 
 public class EqualsAndHashCodeOverride {
+	String s;
 	int x=1;
+	EqualsAndHashCodeOverride e;
 	public EqualsAndHashCodeOverride(int x)
 	{
 		this.x = x;

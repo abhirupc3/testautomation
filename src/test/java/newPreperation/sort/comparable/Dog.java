@@ -24,7 +24,10 @@ public class Dog implements Comparable<Dog>{
 		this.name = name;
 	}
 	public int compareTo(Dog o) {
-	return	this.age.compareTo(o.age);
+	//return	this.age.compareTo(o.age);
+	//	return	this.age-o.age;
+		
+		return	this.name.compareTo(o.name);
 	}
 	
 }

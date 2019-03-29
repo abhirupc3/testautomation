@@ -1,0 +1,93 @@
+Git and GitHub Beginner Tutorial 2 - Getting started - Install Git (mac)
+https://www.youtube.com/watch?v=0Icla6TVNNo
+https://automationstepbystep.com/
+
+1. How to download and install git
+ 2. Signup and create account on GitHub 
+3. Add a project/folder/file to git 
+4. Track and commit changes
+ 5. Add the repository to GitHub ______________________________________ 
+Step 1 : Check if git is already installed. terminal - git --version 
+Step2 : Download and install git https://git-scm.com/download/mac 
+Step 3 : Signup and create a account on GitHub https://github.com/ 
+Step 4 : Add your github email and username to git git config --global user.email "yourGitHub@email.com" git config --global user.name "yourGitHubusername" 
+Step 5 : Add file/folders to git - tracking Step 
+6 : Commands - terminal - goto the location of the folder/project
+ - git init      [creates a .git file for the new repo]
+- git status [shows the current status]
+- git add   [adds the changes to staging area]
+- git commit -m “…..”  [pushes the changes to local git repo]
+- git reset --hard origin/master [reverts the last commit from master branch]
+- git remote add origin “location of remote repo”  [points to the repote repo]
+- git remote get-url origin [This will print the remote url of git repo]
+- git remote set-url origin git://github.com/YourDirectory/YourProject.git
+
+- git push -u origin master [pushes the changes from local repo to remote branch] 
+- git log [shows the activity log]
+- git –help [all git commands it shows]
+- git branch “branch name” [Creates a branch]
+- git checkout “branch name” [switches a branch]
+- git branch -d “branch name” [delete from local]
+- git push origin —delete “branch name” [delete from remote]
+-  git merge “branchA” [merges branchA with develop, before that user needs to switch his branch to develop]
+
+
+
+To Enable email notification
+
+Step 1 : Github - Repository - Settings - integration & services - add email 
+Step 2 : Test and validate by making some change in the project
+Git Tagging
+
+git checkout "branch name" 
+-git chckout master
+Create tag with some name 
+   git tag "tag name" example : 
+   -git tag v1.0 
+    -git tag -a v1.0 -m "version 1.0 release" (to create annotated tags)
+Display or Show tags
+ - git tag 
+  -git show v1.0 
+ -git tag -l “v1.*”
+Push tags to remote 
+-git push origin v1.0 
+-git push origin --tags 
+-git push --tags (to push all tags at once)
+Delete tags (if required only) to delete tags from local :
+ -git tag -d v1.0
+  -git tag --delete v1.0 
+To delete tags from remote : 
+-git push origin -d v1.0
+  -git push origin --delete v1.0
+  -git push origin :v1.0 
+To delete multiple tags at once: 
+-git tag -d v1.0 v1.1            (local) 
+-git push origin -d v1.0 v1.1         (remote)
+
+git branch --contains tags/v1.0  [shows which branch belongs to that tag]
+Checking out TAGS 
+We cannot checkout tags in git We can create a branch from a tag and checkout the branch 
+-git checkout -b "branch name" "tag name" 
+example : 
+-git checkout -b ReleaseVer1 v1.0	
+
+Creating TAGS from past commits 
+-git tag "tag name" "reference of commit" 
+example : 
+-git tag v1.2 5fcdb03
+
+To see the previous commits in Git:
+-git log
+
+-git diff [Shows the changes made comparing with remote]
+
+Git Stash
+-git stash save “my Update” 
+[this command saves all current changes to a temp location and makes current workspace free from all changes]
+
+-git stash list [lists all git stash saved]
+
+-git stash apply {stash-id} 
+[brings tha saved change from stash to workspace]
+
+-git stash pop [removed the first stash from top]

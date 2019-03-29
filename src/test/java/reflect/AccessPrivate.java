@@ -1,5 +1,6 @@
 package reflect;
 
+import java.lang.reflect.Field;
 import java.lang.reflect.Method;
 
 public class AccessPrivate {
@@ -14,6 +15,15 @@ public class AccessPrivate {
 	int rus = (Integer)m.invoke(sc, o);
 	System.out.println(rus);
 	
+	Method m1 = SampleClass.class.getDeclaredMethod("display", null);
+	m1.setAccessible(true);
+	m1.invoke(new SampleClass(), null);
+	// calling a non argument method
+	
+	
+	
+	
+	
 	Method s[] = SampleClass.class.getDeclaredMethods();
 	System.out.println("Declared methods are :");
 	for (Method mm : s) {
@@ -24,5 +34,8 @@ public class AccessPrivate {
 	for (Method mm1 : s1) {
 		System.out.println(mm1.getName());
 	}
+	Field field = SampleClass.class.getDeclaredField("field1");
+	field.setAccessible(true);
+	System.out.println("The value of field is: "+field.get(SampleClass.class.newInstance()));
 }
 }
