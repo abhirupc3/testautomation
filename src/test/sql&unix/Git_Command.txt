@@ -63,7 +63,7 @@ To delete tags from remote :
   -git push origin :v1.0 
 To delete multiple tags at once: 
 -git tag -d v1.0 v1.1            (local) 
--git push origin -d v1.0 v1.1         (remote)
+-git push origin -d v1.0 v1.1    (remote)
 
 git branch --contains tags/v1.0  [shows which branch belongs to that tag]
 Checking out TAGS 
