@@ -29,8 +29,8 @@ Step 5 : Add file/folders to git - tracking Step
 - git branch “branch name” [Creates a branch]
 - git checkout “branch name” [switches a branch]
 - git branch -d “branch name” [delete from local]
-- git push origin —delete “branch name” [delete from remote]
--  git merge “branchA” [merges branchA with develop, before that user needs to switch his branch to develop]
+- git push origin --delete “branch name” [delete from remote][Ex: git push origin --delete testbranch]
+- git merge “branchA” [merges branchA with develop, before that user needs to switch his branch to develop]
 
 
 
@@ -83,6 +83,7 @@ To see the previous commits in Git:
 -git diff [Shows the changes made comparing with remote]
 
 Git Stash
+=========
 -git stash save “my Update” 
 [this command saves all current changes to a temp location and makes current workspace free from all changes]
 

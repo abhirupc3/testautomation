@@ -4,7 +4,21 @@
 pwd
 # listing all directories and files
 ls -lrta
-
+##ls -a will list all files including hidden files (files with names beginning with a dot).
+ls -F gives a full listing, indicating what type files are by putting a slash after directories and a star after executable files (programs you can run).
+ls -l gives a long listing of all files. Here is an example section of the output of ls -l :
+drwxr-xr-x   6 eva        users         1024 Jun  8 16:46 sabon
+-rw-------   1 eva        users         1564 Apr 28 14:35 splus
+What does it all mean?
+The first column gives the type of the file (e.g., directory or ordinary file) and the file permissions.
+The second column is the number of links to the file i.e., (more or less) the number of names there are for the file. Generally an ordinary file will only have one link, but a directory will have more, because you can refer to it as ``dirname'', ``dirname/.'' where the dot means ``current directory'', and if it has a subdirectory named ``subdir'', ``dirname/subdir/..'' (the ``..'' means ``parent directory'').
+The third and fourth columns are the user who owns the file and the Unix group of users to which the file belongs. You almost certainly don't need to worry about Unix groups, as you probably only belong to the default group ``users''.
+The fifth column is the size of the file in bytes.
+The next three columns are the time at which the file was last changed (for a directory, ths is the time at which a file in that directory was last created or deleted).
+The last column is the name of the file.
+ls -R gives a recursive listing, including the contents of all subdirectories and their subdirectories and so on.
+ls -t lists the files in order of the time when they were last modified (newest first) rather than in alphabetical order.
+ls -r lists the files in the reverse of the order that they would otherwise have been listed in. Thus, ls -lrt will give a long listing, oldest first, which is handy for seeing which files in a large directory have recently been changed.
 mkdir testdir
 
 cd testdir
