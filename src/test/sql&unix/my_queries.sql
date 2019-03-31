@@ -13,7 +13,7 @@ select * from scott.emp;
 -- Select max sal and empname from emp table.
 select  ename, sal from scott.emp where sal=(select max(sal) from scott.emp);
 -- max sal from each dept
-select  deptno, max(sal),ename from scott.emp group by deptno; 
+select  deptno, max(sal) from scott.emp group by deptno;
 
 -- 2nd highest salary
 select sal from (select rownum rnum,sal from(select distinct(sal) from scott.emp order by sal desc)) t where t.rnum=3;
