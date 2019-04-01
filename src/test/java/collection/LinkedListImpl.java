@@ -7,20 +7,21 @@ public class LinkedListImpl {
 	public Node head;
     
 	 int size=0;
-     public LinkedListImpl()
-     {
-    	 head = new Node(null);
-     }
-
     public void add(Object data)
     {
-    	Node current = head;
+    	Node current = head; 
     	Node temp = new Node(data);
-    	while(current.getNext()!=null)
+    	if(current==null)
     	{
-    		current=current.getNext();
+    		head=temp;
+    		return;
     	}
-    	current.setNext(temp);size++;
+    	while(current.getNext()!=null) 
+    	{ 
+    		current=current.getNext(); 
+    	}
+    	current.setNext(temp);
+    	size++;
     }
 
     public void add(Object data, int index)
@@ -43,13 +44,13 @@ public class LinkedListImpl {
      		current=current.getNext();
      	}
      	
-     	current.setNext(current.getNext().getNext()); size--;
+     	current.setNext(current.getNext().getNext()); 
+     	size--;
      }
 
      public Object get(int index)
      {
     	 Node current = head;
-    	 current = current.getNext();
      	for(int y=0;y<index;y++)
      	{
      		current=current.getNext();

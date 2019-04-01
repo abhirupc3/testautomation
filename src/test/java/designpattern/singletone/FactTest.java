@@ -1,4 +1,4 @@
-package singletone;
+package designpattern.singletone;
 
 public class FactTest {
 
