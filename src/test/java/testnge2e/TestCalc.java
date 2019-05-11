@@ -22,7 +22,7 @@ public class TestCalc {
 		System.out.println(DataSet.state);
 		Assert.assertTrue(true);
 	}
-	@Test(groups="bat")
+	@Test(groups="bat",enabled=false)
 	@Parameters("Name")
 	@MyTestNGAnnotation(name="CRACK",city="BC",state="CA12")
 	public void testMe1(String Name)

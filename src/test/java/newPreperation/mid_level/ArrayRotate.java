@@ -42,6 +42,12 @@ public class ArrayRotate {
     	counter1=array.length-n;
     	counter2=array.length-1;
     	int temp=0;
+    	int [] ij = new int[12];
+    	for(int p:ij)
+    	{
+    		System.out.println(p);
+    	}
+    	System.out.println("Length:  "+ij.length);
     	for(int p=0;p<array.length-n;p++)
     	{
     		temp=array[counter2];

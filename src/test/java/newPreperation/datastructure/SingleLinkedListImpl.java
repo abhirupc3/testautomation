@@ -4,6 +4,10 @@ public class SingleLinkedListImpl<T> {
 
 	private int size;
 	class Node<T>{
+		public Node<T>()
+		{
+			
+		}
 		T data;
 		Node<T> nextRef;
 		public T getData() {
@@ -43,7 +47,7 @@ public class SingleLinkedListImpl<T> {
 			return;
 		Node<T> node = new Node<T>();
 		node.setData(element);
-		Node temp=head;
+		Node<T> temp=head;
 		node.setData(element);
 		for(int k=0;k<index-1;k++)
 		{

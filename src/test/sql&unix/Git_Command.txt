@@ -2,7 +2,7 @@ Git and GitHub Beginner Tutorial 2 - Getting started - Install Git (mac)
 https://www.youtube.com/watch?v=0Icla6TVNNo
 https://automationstepbystep.com/
 
- 1. How to download and install git
+ 1. How to download and install git from internet
  2. Signup and create account on GitHub 
  3. Add a project/folder/file to git 
  4. Track and commit changes
@@ -93,3 +93,8 @@ Git Stash
 [brings tha saved change from stash to workspace]
 
 -git stash pop [removed the first stash from top]
+
+
+Git overritw/replace
+
+git reset --hard origin/develop

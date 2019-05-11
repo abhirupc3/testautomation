@@ -32,6 +32,10 @@ touch file1.txt
 cat > file2.txt
 "Hello Java"
 ctrl+d
+write multiple file into one
+cat f1.txt f2.txt > f3.txt
+Appending one file to another
+cat fi1.txt >> fi2.txt
 
 # edit a file
 vi file2.txt
@@ -115,3 +119,17 @@ mv testfile2.txt root
 
 whoami
 #above command shows the user name
+#deb file unpack
+dpkg -i <filename>
+
+To Set JAVA_HOME:
+
+$ export JAVA_HOME=/usr/local/jdk
+
+$ export | grep JAVA_HOME
+declare -x JAVA_HOME=/usr/local/jdk"
+#To Unpack a tar.gz
+tar -xzf <filename>
+# to unpack a gz
+gunzip <filename>
+

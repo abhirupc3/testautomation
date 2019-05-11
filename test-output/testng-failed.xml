@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [PricingServiceTest]">
+  <parameter name="Name" value="C"/>
+  <listeners>
+    <listener class-name="testnge2e.custanno.MyTestNGAnnotationListener"/>
+  </listeners>
+  <test name="calc bats(failed)">
+    <parameter name="Name" value="C"/>
+    <groups>
+      <run>
+        <include name="bat"/>
+      </run>
+    </groups>
+    <classes>
+      <class name="testnge2e.TestCalc">
+        <methods>
+          <include name="testAdd" invocation-numbers="0"/>
+        </methods>
+      </class> <!-- testnge2e.TestCalc -->
+    </classes>
+  </test> <!-- calc bats(failed) -->
+</suite> <!-- Failed suite [PricingServiceTest] -->
