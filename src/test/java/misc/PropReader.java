@@ -7,7 +7,7 @@ import java.util.Properties;
 public class PropReader {
 public static void main(String[] args) throws IOException {
 	Properties ps = new Properties();
-	InputStream is = PropReader.class.getResourceAsStream("prop/config.properties");
+	InputStream is = PropReader.class.getResourceAsStream("properties/config.properties");
 	ps.load(is);
 	System.out.println(ps.get("name"));
 }

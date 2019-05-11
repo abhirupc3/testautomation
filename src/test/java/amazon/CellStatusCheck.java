@@ -49,17 +49,11 @@ public class CellStatusCheck {
 		}
     	 return inp;
      }
-	public static void main(String[] args) {
-		//int [] array = { 1, 1, 1, 0, 1, 1, 1, 1 };
-		int [] array = { 1, 0, 0, 0, 0, 1, 0, 0 };
-		int days = 1;
-		 boolean[] arra = findCellStatus(array, days);
-		 System.out.println("\n");
-		for (int i = 0; i < arra.length; i++) {
-			if(arra[i]==true)
-			System.out.print("1");
-			else
-				System.out.print("0");
-		}
-	}
+	/*
+	 * public static void main(String[] args) { //int [] array = { 1, 1, 1, 0, 1, 1,
+	 * 1, 1 }; int [] array = { 1, 0, 0, 0, 0, 1, 0, 0 }; int days = 1; boolean[]
+	 * arra = findCellStatus(array, days); System.out.println("\n"); for (int i = 0;
+	 * i < arra.length; i++) { if(arra[i]==true) System.out.print("1"); else
+	 * System.out.print("0"); } }
+	 */
 }

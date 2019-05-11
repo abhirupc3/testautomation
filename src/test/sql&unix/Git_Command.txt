@@ -93,3 +93,8 @@ Git Stash
 [brings tha saved change from stash to workspace]
 
 -git stash pop [removed the first stash from top]
+
+
+Git overritw/replace
+
+git reset --hard origin/develop

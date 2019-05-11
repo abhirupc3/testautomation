@@ -8,7 +8,7 @@ Assumptions: The two cells on the ends have single adjacent cell, so the other a
 Write a fuction cellCompete which takes takes one 8 element array of integers cells representing the current state of 8 cells and one integer days representing te number of days to simulate. An integer value of 1 represents an active cell and value of 0 represents an inactive cell.
 
  */
-public class CellStatusCheck {
+public class CellStatusCheck2 {
 
 	static boolean[] findCellStatus(int cellArray[], int days) {
 		boolean[] cells = convertToBoolean(cellArray);
