@@ -1,0 +1,17 @@
+Node p=head
+node q=head
+https://www.youtube.com/watch?v=Uk-PkL5WMMY
+
+
+while(q!=null && q.next!=null)
+{
+ p=p.next;
+ q=q.next.next;
+
+
+}
+
+
+Is linked list has loop:
+
+https://www.youtube.com/watch?v=zbozWoMgKW0l

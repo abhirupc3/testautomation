@@ -3,7 +3,7 @@ package misc;
 public class FiboRecExample_Improved {
 
 	public static void main(String[] args) {
-			fiboEx(8);
+			fiboEx(9);
 
 	}
 

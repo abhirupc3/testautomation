@@ -60,7 +60,7 @@ public class ArrayListImpl<T> {
 	private void updateSize() {
 
 		if(size>=cap){
-			cap=cap*2;
+			cap=cap+12;
 			Arrays.copyOf(list, cap);
 		}
 	}

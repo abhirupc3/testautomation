@@ -8,8 +8,8 @@ import java.util.Map;
 
 public class AnimalCounterTest {
 	public static void main(String[] args) throws Exception {
-		//BufferedReader  br = new BufferedReader(new FileReader(new File(ClassLoader.getSystemResource("misc/animals.txt").getPath())));
-		BufferedReader  br = new BufferedReader(new FileReader(new File("C:/2019/MyPractice/testautomation/src/test/java/misc").getPath()));
+		BufferedReader  br = new BufferedReader(new FileReader(new File(ClassLoader.getSystemResource("misc/animals.txt").getPath())));
+		//BufferedReader  br = new BufferedReader(new FileReader(new File("C:/2019/MyPractice/testautomation/src/test/java/misc").getPath()));
 		String line = "";
 		HashMap<String, Integer> hm = new HashMap<String,Integer>();
 		while((line=br.readLine())!=null){

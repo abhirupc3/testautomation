@@ -29,9 +29,9 @@ public class MainComparatorExample {
 		stList.add(student[2]);
 		System.out.println("Order of students before sorting is: ");
 
-		for (int i = 0; i < student.length; i++) {
-			System.out.println(student[i].getName() + "\t"
-					+ student[i].getGrade());
+		for (Student s : student) {
+			System.out.println(s.getName() + "\t"
+					+ s.getGrade());
 		}
 
 		Arrays.sort(student, new GradeComparator());

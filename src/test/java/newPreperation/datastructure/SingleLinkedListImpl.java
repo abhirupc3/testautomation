@@ -1,10 +1,12 @@
 package newPreperation.datastructure;
 
+import collection.LinkedListImpl.Node;
+
 public class SingleLinkedListImpl<T> {
 
 	private int size;
 	class Node<T>{
-		public Node<T>()
+		public Node()
 		{
 			
 		}
@@ -92,6 +94,15 @@ public class SingleLinkedListImpl<T> {
 			temp=temp.getNextRef();
 		}
 	}
+	public T get(int index)
+    {
+    	for(int y=0;y<index;y++)
+    	{
+    		head=head.getNextRef();
+    	}
+    	
+    	return head.getData(); 
+    }
 	public static void main(String[] args) {
 		SingleLinkedListImpl<String> lImpl = new SingleLinkedListImpl<String>();
 		lImpl.add("Abhirup");
@@ -99,7 +110,8 @@ public class SingleLinkedListImpl<T> {
 		lImpl.add("Chatt1");
 		lImpl.add(1, "Avanish");
 		lImpl.add("Chatt2");
-		lImpl.add(1, "Avanish23");
+		lImpl.add(2, "Avanish23");
+		System.out.println("New Data Is :"+lImpl.get(0));
 		System.out.println(lImpl);
 		lImpl.remove();
 		System.out.println(lImpl);

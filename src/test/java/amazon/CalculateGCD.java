@@ -18,7 +18,7 @@ public class CalculateGCD {
     }
     public static void main(String[] args) 
     { 
-        int arr[] = { 2, 4, 6, 8, 10 }; 
+        int arr[] = { 4, 4, 6, 12,8, 10 }; 
         int n = arr.length; 
         System.out.println(generalizedGCD(n,arr)); 
     } 

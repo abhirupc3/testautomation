@@ -1,0 +1,29 @@
+
+https://github.com/mission-peace/interview/tree/master/src/com/interview/dynamic
+
+
+
+
+
+
+
+
+
+Given an array arr of N integers. Find the contiguous sub-array with maximum sum.
+maxSoFar=0;
+maxendshere=0;
+for loop(iterate the array)
+{
+ maxendshere=maxendshere+a[i];
+ if(maxendshere<0)
+ maxendshere=0;
+ if(maxSoFar<maxendshere)
+ maxSoFar=maxendshere
+}
+https://www.youtube.com/watch?v=OexQs_cYgAQ
+Missing number in array
+https://www.youtube.com/watch?v=lBk6fVhuCyw
+A of size N, find the length of the longest increasing subsequence from a given sequence .
+
+BST:
+https://www.youtube.com/watch?v=81PpYQ0AN_w

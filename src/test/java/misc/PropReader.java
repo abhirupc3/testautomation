@@ -10,5 +10,6 @@ public static void main(String[] args) throws IOException {
 	InputStream is = PropReader.class.getResourceAsStream("properties/config.properties");
 	ps.load(is);
 	System.out.println(ps.get("name"));
+	
 }
 }

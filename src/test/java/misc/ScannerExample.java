@@ -10,7 +10,8 @@ public class ScannerExample {
 
 		System.out.println("Enter the first String");
 		Scanner sc = new Scanner(System.in);
-		System.out.println(sc.next());
+		String s = sc.next();
+		System.out.println("The Entered First String is: "+s);
 		System.out.println("Enter the second String");
 		System.out.println(sc.next());
 	}
