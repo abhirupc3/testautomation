@@ -1,5 +1,7 @@
 package misc;
 
+import java.util.Stack;
+
 public class Top2MostPopularNumberInAnArray {
 
 	private static int popular ;
@@ -7,7 +9,8 @@ public class Top2MostPopularNumberInAnArray {
 	private static int popular2 ;
 	private static int c2;
 	public static void main(String[] args) {
-
+			Stack s = new Stack();
+			s.peek();
 		int[] i = {12,23,1,2,34,44,57,95,67,67,67,67,67,33,22,22,22,22,21};
 		popular(i);
 	}

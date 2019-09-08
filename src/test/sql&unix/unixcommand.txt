@@ -1,5 +1,4 @@
-#https://www.tutorialspoint.com/unix_terminal_online.php
-
+https://www.tutorialspoint.com/unix_terminal_online.php
 #present working directory
 pwd
 # listing all directories and files

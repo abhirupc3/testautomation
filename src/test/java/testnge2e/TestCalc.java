@@ -22,8 +22,8 @@ public class TestCalc {
 		System.out.println(DataSet.state);
 		Assert.assertTrue(true);
 	}
-	@Test(groups="bat",enabled=false)
-	@Parameters("Name")
+	@Test(groups="bat",enabled=true)
+	@Parameters({"Name1"})
 	@MyTestNGAnnotation(name="CRACK",city="BC",state="CA12")
 	public void testMe1(String Name)
 	{

@@ -1,8 +1,9 @@
 
 https://github.com/mission-peace/interview/tree/master/src/com/interview/dynamic
 
-
-
+==================================================================================================
+https://www.geeksforgeeks.org/must-do-coding-questions-for-companies-like-amazon-microsoft-adobe/
+==================================================================================================
 
 
 
@@ -10,6 +11,7 @@ https://github.com/mission-peace/interview/tree/master/src/com/interview/dynamic
 
 
 Given an array arr of N integers. Find the contiguous sub-array with maximum sum.
+https://www.youtube.com/watch?v=OexQs_cYgAQ
 maxSoFar=0;
 maxendshere=0;
 for loop(iterate the array)
@@ -20,10 +22,55 @@ for loop(iterate the array)
  if(maxSoFar<maxendshere)
  maxSoFar=maxendshere
 }
-https://www.youtube.com/watch?v=OexQs_cYgAQ
+
 Missing number in array
 https://www.youtube.com/watch?v=lBk6fVhuCyw
 A of size N, find the length of the longest increasing subsequence from a given sequence .
 
 BST:
 https://www.youtube.com/watch?v=81PpYQ0AN_w
+Array Reversal
+https://www.youtube.com/watch?v=W-090WziKAs&t=128s
+ArrayRotation (left or right shift)
+https://www.youtube.com/watch?v=EpP6YuqzHe8
+Middle of a linked List
+https://www.youtube.com/watch?v=Uk-PkL5WMMY
+while(q!=null && q.next!=null)
+{
+ p=p.next;
+ q=q.next.next;
+}
+Is linked list has loop:
+https://www.youtube.com/watch?v=zbozWoMgKW0l
+array right shift
+https://www.youtube.com/watch?v=EpP6YuqzHe8
+arrayReverse
+https://www.youtube.com/watch?v=W-090WziKAs
+Roman to Integer:
+https://www.youtube.com/watch?v=KwrAArXFF30
+Anagram check:
+https://www.youtube.com/watch?v=EbFvDT-koDQ
+Form a palindrome
+start from 2nd element reverse the string and append in begining.
+String to Number:
+https://www.youtube.com/watch?v=_7yX0tySwBw
+Longest common prefix in an array:
+====================================
+private static String longestCommonPrefix(String[] strs) {
+		if (strs.length == 0)
+			return "";
+		String prefix = strs[0];
+		for (int i = 1; i < strs.length; i++) {
+			while (strs[i].indexOf(prefix) != 0) {
+				prefix = prefix.substring(0, prefix.length() - 1);
+			}
+		}
+		if (prefix.isEmpty()) {
+			return "";
+		}
+
+		return prefix;
+	}
+LinkedList reverse:
+linkedList_Reverse.java (I implemented);
+https://www.youtube.com/watch?v=4mm39dVLlZ0&t=425s

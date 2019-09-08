@@ -5,8 +5,9 @@
 		<listener
 			class-name="testnge2e.custanno.MyTestNGAnnotationListener" />
 	</listeners>
-	<test name="calc bats">
+	<test name="calc_bats">
 		<parameter name="Name" value="C"></parameter>
+		<parameter name="Name1" value="C1"></parameter>
 
 		<groups>
 			<run>
