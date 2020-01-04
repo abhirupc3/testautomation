@@ -30,6 +30,8 @@ Step 5 : Add file/folders to git - tracking Step
 - git checkout “branch name” [switches a branch]
 - git branch -d “branch name” [delete from local]
 - git push origin --delete “branch name” [delete from remote][Ex: git push origin --delete testbranch]
+- git push origin <branch_name>
+  git push origin Jan2020
 - git merge “branchA” [merges branchA with develop, before that user needs to switch his branch to develop]
 
 
@@ -95,8 +97,13 @@ Git Stash
 -git stash pop [removed the first stash from top]
 
 
-Git overritw/replace
+How to do Git overrite/replace
 
 git reset --hard origin/develop
 To see the difference between local and remote
 git diff head <filename>
+*****************************************************
+              New
+*****************************************************
+git clone <git_url> <branch_name>
+git clone https://github.com/abhirupc3/testautomation.git -b Jan2020
