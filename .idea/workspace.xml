@@ -1,19 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cef0a779-83ad-4595-9a0b-85577cb5955a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/misc/AnimalCounterTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/misc/AnimalCounterTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/misc/FiboRecExample_Improved.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/misc/FiboRecExample_Improved.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/misc/NumberOfOccuranceEachCharImproved.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/misc/NumberOfOccuranceEachCharImproved.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/misc/ScannerExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/misc/ScannerExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/misc/SimpleDateFormatExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/misc/SimpleDateFormatExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/misc/String_Rev_recruicive.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/misc/String_Rev_recruicive.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/newPreperation/datastructure/SingleLinkedListImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/newPreperation/datastructure/SingleLinkedListImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/newPreperation/sort/comparator/MainComparatorExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/newPreperation/sort/comparator/MainComparatorExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/restAssured/RestAssuredSampleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/restAssured/RestAssuredSampleTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/sql&amp;unix/Git_Command.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/sql&amp;unix/Git_Command.txt" afterDir="false" />
-    </list>
+    <list default="true" id="cef0a779-83ad-4595-9a0b-85577cb5955a" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -213,7 +201,7 @@
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26385927" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26652452" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />

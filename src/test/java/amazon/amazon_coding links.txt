@@ -29,6 +29,8 @@ A of size N, find the length of the longest increasing subsequence from a given 
 
 BST:
 https://www.youtube.com/watch?v=81PpYQ0AN_w
+depth of a BST:
+https://www.youtube.com/watch?v=_O-mK2g_jhI&t=655s
 Array Reversal
 https://www.youtube.com/watch?v=W-090WziKAs&t=128s
 ArrayRotation (left or right shift)

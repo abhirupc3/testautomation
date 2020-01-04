@@ -4,7 +4,6 @@ public class BinarySearchImpl {
 
 	private static int i[] = {7,8,9,10,11,12,13,14,15,16};
 	public static void main(String[] args) {
-		
 		binSearch(7);
 	}
 
