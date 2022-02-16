@@ -6,7 +6,7 @@ package newPreperation.jan1st2020;
 import java.util.ArrayList;
 
 public class StringToNumber {
-  public static String num =  "-1A024";
+  public static String num =  "-124";
   public static void main(String[] args) {
 	char[] c = num.toCharArray();
 	int intNum=0;
