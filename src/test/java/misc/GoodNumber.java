@@ -1,6 +1,6 @@
 package misc;
 
-import org.apache.tools.ant.Main;
+
 
 public class GoodNumber {
 

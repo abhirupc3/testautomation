@@ -3,8 +3,8 @@ package newPreperation.jan1st2020;
 import java.util.ArrayList;
 
 /**
- * Write a program to find if the numbers are anagram for ex. input 1 act and
- * input 2 cat output anagram input 1 act and input 2 cata output not anagram
+ * Write a program to find if the numbers are anagram for ex. input 1: act and
+ * input 2: cat output anagram input 1 act and input 2 cata output not anagram
  * 
  * @author 19094
  *

@@ -11,7 +11,6 @@ import com.jayway.restassured.path.json.JsonPath;
 import com.jayway.restassured.path.xml.XmlPath;
 import com.jayway.restassured.response.Response;
 
-import cucumber.api.java.en.When;
 public class RestAssuredSampleTest {
  public static void main(String[] args) {
 	 RestAssured.baseURI="http://dummy.restapiexample.com";

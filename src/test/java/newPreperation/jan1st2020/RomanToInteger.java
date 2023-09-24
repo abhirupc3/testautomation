@@ -7,7 +7,7 @@ package newPreperation.jan1st2020;
  */
 public class RomanToInteger {
     public static void main(String[] args) {
-		String num="xix";
+		String num="lviii";
 		char[] c = num.toCharArray();
 		int sum=0;
 		int previous=0;
@@ -35,13 +35,13 @@ public class RomanToInteger {
 		case 'x':
 			return 10;
 		case 'l':
-			return 1;
+			return 50;
 		case 'c':
-			return 5;
+			return 100;
 		case 'd':
-			return 10;
+			return 500;
 		case 'm':
-			return 10;
+			return 1000;
 		default:
 			return 0;
 		}

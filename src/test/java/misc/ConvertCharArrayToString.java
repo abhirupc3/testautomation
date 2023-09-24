@@ -1,6 +1,6 @@
 package misc;
 
-import org.omg.Messaging.SyncScopeHelper;
+//import org.omg.Messaging.SyncScopeHelper;
 
 public class ConvertCharArrayToString {
 

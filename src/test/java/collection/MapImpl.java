@@ -23,7 +23,16 @@ public class MapImpl {
 			MapImpl mp = new MapImpl();
 			mp.put("Abhi", "chat");
 			mp.put("A2", "CC");
+			MapImpl mI = new MapImpl();
+			mI.put("A0", "V1");
+			mI.put("A1", "V2");
+			mI.put("A2", "V3");
+			mI.put("A3", "V4");
 			System.out.println(mp.get("Abhi"));
+			System.out.println(mI.get("A"));
+			System.out.println(mI.get("A1"));
+			System.out.println(mI.get("A2"));
+			System.out.println(mI.get("A3"));
 		}
 	public class Entry{
 		Object key;

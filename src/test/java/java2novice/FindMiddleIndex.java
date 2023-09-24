@@ -40,6 +40,7 @@ public class FindMiddleIndex {
  
     public static void main(String a[]) {
         int[] num = { 2, 17, 4, 5, 4, 1,5 };
+        String s = "Abhorup";
         try {
             System.out.println("Starting from index 0, adding numbers till index "
                             + findMiddleIndex(num) + " and");

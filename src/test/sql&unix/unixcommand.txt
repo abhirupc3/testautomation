@@ -23,7 +23,8 @@ mkdir testdir
 cd testdir
 
 #ctrl +d indicates end of file
-# ctrl+c indicates kill process. 
+#ctrl +d indicates end of file
+# ctrl+c indicates kill process.
 
 #create an empty file
 touch file1.txt
@@ -57,7 +58,7 @@ grep "Hello" testFile2.txt
 # Case insensitive grep
 grep -i "hello" testFile2.txt
 #regular expression using grep
-grep -i ".*wo.*" testFile2.txt.
+grep -i ".*wo*" testFile2.txt.
 #search full word
 grep -iw "world" testfile2.txt
 # Print 3 lines after a match happens
@@ -128,7 +129,9 @@ $ export JAVA_HOME=/usr/local/jdk
 $ export | grep JAVA_HOME
 declare -x JAVA_HOME=/usr/local/jdk"
 #To Unpack a tar.gz
+zip archive.zip file.txt (On mac)
 tar -xzf <filename>
 # to unpack a gz
 gunzip <filename>
+unzip archive.zip
 

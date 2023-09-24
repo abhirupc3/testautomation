@@ -1,0 +1,12 @@
+Python quick tutorial: https://www.youtube.com/watch?v=emNkJGwcusQ
+All new Excercise:  https://www.youtube.com/playlist?list=PLot-Xpze53ldVwtstag2TL4HQhAnC8ATf
+
+Pending ones:
+1. ThreeSum
+2. ReverseBit https://youtu.be/UcoN6UjAI64
+3. Combination Sum https://youtu.be/GBKI9VSKdGg
+4. Decode Ways - Dynamic Programming - Leetcode 91 https://youtu.be/6aEyTjOwlJU
+5. Jump Game - Greedy - Leetcode 55 https://youtu.be/Yan0cv2cLy8
+6. NUMBER OF ISLANDS - Leetcode 200 - Python https://youtu.be/pV2kpPD66nE
+7. Free Leetcode Premium Questions - Meeting Rooms - Leetcode 252 - Python https://youtu.be/PaJxqZVPhbg
+This is similar to merge interval, we just need to return false if there is a overlap.
