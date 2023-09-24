@@ -9,7 +9,8 @@ public class LongestPalindrome {
 
 
     public static void main(String[] args) {
-        String s1 = "abhirudaldamadampcracpecar";
+        String s1 = "abhirudaldamadampcracperacecar";
+       // String s1 = "racecar";
         reverse(s1);
         int s = LongestCommonSubstring.longestCommonSubstring(s1.toCharArray(),reverse(s1).toCharArray());
         System.out.println(s);

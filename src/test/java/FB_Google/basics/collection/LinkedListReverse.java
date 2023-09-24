@@ -53,12 +53,14 @@ public class LinkedListReverse {
    {
        Node prev = null;
        Node next = head.next;
-       while(head!=null && head.next!=null)
+       while(true)
        {
            head.next = prev;
            prev=head;
            head=next;
            next=next.next;
+           if(next==null)
+               break;
        }
        head.next = prev;
        System.out.println("Head is: "+head.data);

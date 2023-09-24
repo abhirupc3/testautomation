@@ -9,9 +9,14 @@ import java.util.ArrayList;
  */
 public class CustomSortString {
     public static void main(String[] args) {
+        String s1 = "AAbcde";
+        s1=s1.replace("A","");
+        System.out.println(s1);
         CustomSortString cs = new CustomSortString();
-        String order = "cbafg", s = "abcd";
-        cs.customSortString(order,s);
+        String order = "cba", s = "Wabcdc";
+        String res = cs.customSortString(order,s);
+        System.out.println("The output is: \n");
+        System.out.println(res);
     }
     public String customSortString(String order, String s) {
         ArrayList<Character> charList  = new ArrayList<>();

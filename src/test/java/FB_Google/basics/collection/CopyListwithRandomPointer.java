@@ -1,7 +1,5 @@
-package FB_Google.basics.simpleexample;
+package FB_Google.basics.collection;
 
-import java.util.ArrayList;
-import java.util.List;
 import java.util.Map;
 import java.util.HashMap;
 
@@ -31,26 +29,27 @@ public class CopyListwithRandomPointer {
         node.random=node1;
         node.next.next=node1;
         Node n1 = cp.copyRandomList(node);
-        System.out.println(n1.val);
+        while(n1!=null) {
+            System.out.println(n1.val);
+            n1=n1.next;
+        }
     }
 
     public Node copyRandomList(Node head) {
         Node curr = head;
-        Map<Node,Node> mp = new HashMap<>();
-        while(curr!=null)
+        Map<Node,Node> mp = new HashMap<Node,Node>();
+        Node n;
+         while(curr!=null)
+         {
+             mp.put(curr,new Node(curr.val));
+             curr=curr.next;
+         }
+         for(Map.Entry<Node,Node> e: mp.entrySet())
         {
-            mp.put(curr,new Node(curr.val));
-            curr=curr.next;
-        }
-        curr = head;
-        Node n = null;
-        for(Node key: mp.keySet())
-        {
-            n = mp.get(key);
-            n.next = mp.get(key.next);
-            n.random = mp.get(key.random);
-        }
-
-        return mp.get(curr);
+           n=e.getValue();
+           n.next=e.getKey().next;
+           n.random = e.getKey().random;
+        }return mp.get(head);
     }
+
 }

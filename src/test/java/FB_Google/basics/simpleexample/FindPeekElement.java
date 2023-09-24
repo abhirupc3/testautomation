@@ -9,45 +9,38 @@ public class FindPeekElement {
 
     public static void main(String[] args) {
         FindPeekElement fpe = new FindPeekElement();
-        int i[] = {1,2,3,1};
-        int res = fpe.findPeakElement(i);
-        System.out.println("Peak index is: "+res);
+        int i[] = {7,2,9,2};
+        int res1 = fpe.findPeakElement(i);
+        int res = fpe.findPeak(i);
+        System.out.println("Peak index is: "+i[res]);
+        System.out.println("Peak index is: "+i[res1]);
     }
     public int findPeakElement(int[] nums) {
-        int prev=0;
-        int mid= 1;
-        int next =2;
-        if(nums.length==0)
-            return 0;
-        if(nums.length==1)
-            return   0;
-
-        if(nums.length==2)
-        {
-            if(nums[0]>nums[1])
-                return 0;
-            else
-                return 1;
+        for (int i = 0; i < nums.length - 1; i++) {
+            if (nums[i] > nums[i + 1])
+                return i;
         }
+        return nums.length - 1;
+    }
+    //Using Binary Search
 
-        if(nums[mid]>nums[prev] && nums[mid]>nums[next])
-            return mid;
-        if(nums[prev]>nums[mid])
-            return prev;
-        if(nums[nums.length-1]>nums[nums.length-2])
-            return nums.length-1;
-        while(true)
+    public int findPeak(int[] nums)
+    {
+        int l=0;
+        int ri = nums.length-1;
+
+        while(l<=ri)
         {
-            prev=prev+1;
-            mid=mid+1;
-            next=next+1;
-            if(next>=nums.length)
-                return  Math.max(nums[prev],nums[mid]);
-            if(nums[mid]>nums[prev] && nums[mid]>nums[next])
+            int m = (l+ri)/2;
+            if(m!=nums.length-1 && nums[m]<nums[m+1])
             {
-                return mid;
+                l=m+1;
+            } else if(m!=0 && nums[m]<nums[m-1])
+            {
+                ri=m-1;
+            } else{
+                return m;
             }
-
-        }
+        } return -1;
     }
 }

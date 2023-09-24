@@ -7,10 +7,10 @@ import newPreperation.datastructure.BinarySearchTree;
  * @project testautomation
  */
 public class BinaryTree {
-    static class Node{
-        Node leftNode;
-        Node rightNode;
-        int data;
+    public static class Node{
+        public Node leftNode;
+        public Node rightNode;
+       public int data;
         Node(Node rightNode,Node leftNode,int data)
         {
             this.rightNode=rightNode;
@@ -19,7 +19,7 @@ public class BinaryTree {
 
         }
     }
-    Node root;
+    public Node root;
     public void insert(int data)
     {
         Node tempNode = root;

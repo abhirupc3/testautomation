@@ -24,9 +24,9 @@ import java.util.*;
 public class SimplifiedPath {
 
     public static void main(String[] args) {
-        String path = "/../";
+        String path = "cd/as/..//de..";
         String simplePath = simplePath(path);
-        System.out.println(simplePath);
+        System.out.println("The output is: "+simplePath);
 
         }
         public static  String simplePath(String path)
@@ -35,6 +35,7 @@ public class SimplifiedPath {
             Stack<String> dirStack = new Stack <String> ();
             for(String dir:tokenizedPath)
             {
+                System.out.println(dir);
                 if(!dirStack.isEmpty() && dir.equals(".."))
                 {
                     dirStack.pop();

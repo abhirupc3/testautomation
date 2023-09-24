@@ -23,12 +23,12 @@ import java.util.Map;
  */
 public class ContinuousSubarraySum {
     public static void main(String[] args) {
-        int[] nums = {1,0,1,0,1};
+        int[] nums = {23,2,4,6,7};
         String s = "asas";
 
-        int k = 4;
+        int k = 6;
         ContinuousSubarraySum cs = new ContinuousSubarraySum();
-        boolean flag = cs.checkSubarraySum(nums,k);
+        boolean flag = cs.checkSubarraySum1(nums,6);
         System.out.println(flag);
     }
     public boolean checkSubarraySum(int[] nums, int k) {

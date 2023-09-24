@@ -7,6 +7,7 @@ import java.util.Stack;
 /**
  * @author achatterjee ON 2/10/22
  * @project testautomation
+ * https://leetcode.com/problems/convert-binary-search-tree-to-sorted-doubly-linked-list/
  */
 public class BinaryTreeToCircularLL {
 
@@ -14,18 +15,22 @@ public class BinaryTreeToCircularLL {
     BinaryTree.Node head =null;
     public static void main(String[] args) {
         BinaryTree BST = new BinaryTree();
-       // BST.insert(4);
-      //  BST.insert(2);
-      //  BST.insert(5);
-       // BST.insert(1);
-     //   BST.insert(3);
+        BST.insert(4);
+        BST.insert(2);
+        BST.insert(5);
+        BST.insert(1);
+        BST.insert(3);
         BinaryTreeToCircularLL bct = new BinaryTreeToCircularLL();
         BinaryTree.Node node = bct.treeToDoublyList(BST.root);
         BinaryTree.Node StartNode = node;
-        while(node!=null && StartNode!=node.leftNode)
+        while(node!=null)
         {
             System.out.println(StartNode.data);
             StartNode=StartNode.rightNode;
+            if(StartNode==node.leftNode) {
+                System.out.println(StartNode.data);
+                break;
+            }
         }
         System.out.println("Success!!");
     }
@@ -69,7 +74,7 @@ public class BinaryTreeToCircularLL {
             return ;
         }
         BinaryTree.Node temp = head;
-
+        //Traversing to the last element;
         while(temp!=head.leftNode && head.rightNode!=null)
         {
             temp=temp.rightNode;

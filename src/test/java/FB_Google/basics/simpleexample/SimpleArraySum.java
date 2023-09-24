@@ -34,7 +34,7 @@ public class SimpleArraySum {
                 break;
             firstIndex = r;
         }
-        System.out.println("he output is: ["+firstIndex+","+nextIndex+"]");
+        System.out.println("The output is: ["+firstIndex+","+nextIndex+"]");
     }
 
     public static int findextVal(int[] num,int stIndex, int nextNum)

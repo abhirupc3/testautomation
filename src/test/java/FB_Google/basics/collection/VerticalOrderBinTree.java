@@ -62,7 +62,7 @@ public class VerticalOrderBinTree {
             System.out.println("Value of level is :"+e.getKey());
             for(BinaryTree.Node n: e.getValue())
             {
-                System.out.print(n.data+" ");
+                System.out.print(n.data+"\n");
             }
             System.out.println("\n");
         }

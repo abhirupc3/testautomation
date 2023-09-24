@@ -33,7 +33,7 @@ public class LongestSubString {
 
     //static String input = "pwwkew";
    // static String input = "abcdkc";
-    static String input = "abcbab";
+    static String input = "abcdaefgc";
     //static String[] input = {"a","b","c","a","b","c","a","b"};
 
     public static void main(String[] args) {
@@ -68,7 +68,9 @@ public class LongestSubString {
          }
          //length = frontPointer-backPointer;
          System.out.println("The value of length is: "+length);
-         System.out.println("The subString is: "+name);
+         System.out.println("The subString of "+name+" Is: ");
+         System.out.println("st "+st);
+         System.out.println("nd "+nd);
          for(int m=st;m<=nd;m++)
          {
              if(m<name.length())

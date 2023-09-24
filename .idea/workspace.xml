@@ -5,207 +5,46 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b692aca0-6a7d-45e5-a059-b89b734b2afb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/sony/testcode/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sony/testcode/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/sony/testcode/D.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/sony/testcode/D.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/main.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ToDelete/Fact.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ToDelete/Fact.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ToDelete/Fibo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ToDelete/Fibo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ToDelete/GoodNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ToDelete/GoodNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ToDelete/LinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ToDelete/LinkedList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ToDelete/ListDirContent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ToDelete/ListDirContent.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ToDelete/RemoveDuplicate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ToDelete/RemoveDuplicate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ToDelete/SimpleDateTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ToDelete/SimpleDateTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ToDelete/digiSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ToDelete/digiSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ToDelete/hashCode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ToDelete/hashCode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/amazon/AlaxaVegiResturant.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/amazon/AlaxaVegiResturant.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/amazon/Alexa1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/amazon/Alexa1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/amazon/Amazon_Codongs.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/amazon/Amazon_Codongs.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/amazon/ArrayShift.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/amazon/ArrayShift.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/amazon/BogO" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/amazon/BogO" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/amazon/CalculateGCD.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/amazon/CalculateGCD.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/amazon/CellStatusCheck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/amazon/CellStatusCheck.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/amazon/CellStatusCheck2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/amazon/CellStatusCheck2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/amazon/CheckBST.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/amazon/CheckBST.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/amazon/KeySort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/amazon/KeySort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/amazon/LongestPallinodrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/amazon/LongestPallinodrome.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/amazon/SubArrayWithGivenSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/amazon/SubArrayWithGivenSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/amazon/TestMe.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/amazon/TestMe.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/amazon/amazon_coding links.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/amazon/amazon_coding links.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/amazon/my_Implementation/MergeInterval.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/amazon/my_Implementation/MergeInterval.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/amazon/my_Implementation/MinCoins.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/amazon/my_Implementation/MinCoins.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/annotation/AnnotationExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/annotation/AnnotationExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/annotation/AnnotationHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/annotation/AnnotationHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/annotation/TestClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/annotation/TestClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/collection/ArrayListImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/collection/ArrayListImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/collection/BinarySearchImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/collection/BinarySearchImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/collection/BinaryTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/collection/BinaryTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/collection/BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/collection/BubbleSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/collection/LinkedListImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/collection/LinkedListImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/collection/MapImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/collection/MapImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/collection/QueueImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/collection/QueueImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/collection/Stack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/collection/Stack.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/collection/sort/QuickSortImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/collection/sort/QuickSortImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/collection/sort/SelectionSortImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/collection/sort/SelectionSortImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/sony/testcode/AppTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/sony/testcode/AppTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/cucumber_tests/CalcImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/cucumber_tests/CalcImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/cucumber_tests/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/cucumber_tests/Calculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/cucumber_tests/CalculatorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/cucumber_tests/CalculatorTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/designpattern/builder/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/designpattern/builder/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/designpattern/builder/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/designpattern/builder/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/designpattern/builder/StudentBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/designpattern/builder/StudentBuilder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/designpattern/singletone/FactTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/designpattern/singletone/FactTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/designpattern/singletone/Female.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/designpattern/singletone/Female.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/designpattern/singletone/Human.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/designpattern/singletone/Human.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/designpattern/singletone/HumanBeing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/designpattern/singletone/HumanBeing.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/designpattern/singletone/HumanFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/designpattern/singletone/HumanFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/designpattern/singletone/Male.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/designpattern/singletone/Male.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/designpattern/singletone/SingleTonePattern.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/designpattern/singletone/SingleTonePattern.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/designpattern/singletone/TestSingleTone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/designpattern/singletone/TestSingleTone.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/enumtest/EnumEx2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/enumtest/EnumEx2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/enumtest/EnumExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/enumtest/EnumExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/enumtest/EnumTest1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/enumtest/EnumTest1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/enumtest/EnumTest2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/enumtest/EnumTest2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/io/BufferedReaderExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/io/BufferedReaderExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/io/BufferedWriterExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/io/BufferedWriterExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/io/FileInputStreamExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/io/FileInputStreamExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/io/FileOutpytStreamExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/io/FileOutpytStreamExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/io/ReadFile_Usilg_Fileutils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/io/ReadFile_Usilg_Fileutils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/io/SerializeDeserializeExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/io/SerializeDeserializeExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/FB_Google/basics/collection/BinaryTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/FB_Google/basics/collection/BinaryTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/FB_Google/basics/collection/BinaryTreeToCircularLL.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/FB_Google/basics/collection/BinaryTreeToCircularLL.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/FB_Google/basics/collection/BinaryTreeTraversal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/FB_Google/basics/collection/BinaryTreeTraversal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/FB_Google/basics/collection/LevelOrderPrintOfBTNewLine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/FB_Google/basics/collection/LevelOrderPrintOfBTNewLine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/FB_Google/basics/collection/LinkedListReverse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/FB_Google/basics/collection/LinkedListReverse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/FB_Google/basics/collection/VerticalOrderBinTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/FB_Google/basics/collection/VerticalOrderBinTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/FB_Google/basics/simpleexample/AddStrings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/FB_Google/basics/simpleexample/AddStrings.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/FB_Google/basics/simpleexample/BasicCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/FB_Google/basics/simpleexample/BasicCalculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/FB_Google/basics/simpleexample/ContinuousSubarraySum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/FB_Google/basics/simpleexample/ContinuousSubarraySum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/FB_Google/basics/simpleexample/CopyListwithRandomPointer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/FB_Google/basics/collection/CopyListwithRandomPointer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/FB_Google/basics/simpleexample/CustomSortString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/FB_Google/basics/simpleexample/CustomSortString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/FB_Google/basics/simpleexample/FindPeekElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/FB_Google/basics/simpleexample/FindPeekElement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/FB_Google/basics/simpleexample/KClosestPointsToOrigin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/FB_Google/basics/simpleexample/KClosestPointsToOrigin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/FB_Google/basics/simpleexample/LongestCommonSubstring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/FB_Google/basics/simpleexample/LongestCommonSubstring.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/FB_Google/basics/simpleexample/LongestPalindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/FB_Google/basics/simpleexample/LongestPalindrome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/FB_Google/basics/simpleexample/LongestSubString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/FB_Google/basics/simpleexample/LongestSubString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/FB_Google/basics/simpleexample/MaximumSwap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/FB_Google/basics/simpleexample/MaximumSwap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/FB_Google/basics/simpleexample/MergeIntervals.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/FB_Google/basics/simpleexample/MergeIntervals.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/FB_Google/basics/simpleexample/MinAddToMakeValidParanthesis.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/FB_Google/basics/simpleexample/MinAddToMakeValidParanthesis.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/FB_Google/basics/simpleexample/NextPermutationNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/FB_Google/basics/simpleexample/NextPermutationNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/FB_Google/basics/simpleexample/OceanView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/FB_Google/basics/simpleexample/OceanView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/FB_Google/basics/simpleexample/PowerOfXn.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/FB_Google/basics/simpleexample/PowerOfXn.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/FB_Google/basics/simpleexample/SimpleArraySum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/FB_Google/basics/simpleexample/SimpleArraySum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/FB_Google/basics/simpleexample/SimplifiedPath.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/FB_Google/basics/simpleexample/SimplifiedPath.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/FB_Google/basics/simpleexample/SparseVector.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/FB_Google/basics/simpleexample/SparseVector.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/FB_Google/basics/simpleexample/SubArraySum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/FB_Google/basics/simpleexample/SubArraySum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/FB_Google/basics/simpleexample/TopKFrequentElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/FB_Google/basics/simpleexample/TopKFrequentElement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/FB_Google/basics/simpleexample/WeightSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/FB_Google/basics/simpleexample/WeightSum.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/java2novice/FindMiddleIndex.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/java2novice/FindMiddleIndex.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/jersey/JerseyTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/jersey/JerseyTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/misc/AnimalCounterTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/misc/AnimalCounterTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/misc/Callender.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/misc/Callender.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/misc/ConvertCharArrayToString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/misc/ConvertCharArrayToString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/misc/DateTime.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/misc/DateTime.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/misc/DigitSumOfANumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/misc/DigitSumOfANumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/misc/Duplicate_String_Remove.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/misc/Duplicate_String_Remove.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/misc/Duplicate_String_Remove_Improved.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/misc/Duplicate_String_Remove_Improved.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/misc/EqualsAndHashCodeOverride.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/misc/EqualsAndHashCodeOverride.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/misc/FactorialExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/misc/FactorialExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/misc/FactorialFiboExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/misc/FactorialFiboExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/misc/FactorialRecExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/misc/FactorialRecExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/misc/FiboExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/misc/FiboExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/misc/FiboRecExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/misc/FiboRecExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/misc/FiboRecExample_Improved.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/misc/FiboRecExample_Improved.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/misc/GoodNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/misc/GoodNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/misc/IteratorExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/misc/IteratorExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/misc/JaxBMarshallerUnMarshellerExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/misc/JaxBMarshallerUnMarshellerExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/misc/ListIteratorExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/misc/ListIteratorExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/misc/MapIterationExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/misc/MapIterationExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/misc/MessageFormatExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/misc/MessageFormatExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/misc/MethodLocal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/misc/MethodLocal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/misc/MostPopularNumberInAnArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/misc/MostPopularNumberInAnArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/misc/NumberOfOccuranceEachChar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/misc/NumberOfOccuranceEachChar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/misc/NumberOfOccuranceEachCharImproved.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/misc/NumberOfOccuranceEachCharImproved.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/misc/NumberReverse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/misc/NumberReverse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/misc/NumberSumOfADigit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/misc/NumberSumOfADigit.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/misc/PerfectNumberExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/misc/PerfectNumberExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/misc/PropReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/misc/PropReader.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/misc/ReadPropertyExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/misc/ReadPropertyExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/misc/SampleBean.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/misc/SampleBean.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/misc/ScannerExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/misc/ScannerExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/misc/SimpleDateFormatExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/misc/SimpleDateFormatExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/misc/StaticClassExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/misc/StaticClassExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/misc/Str_Rev.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/misc/Str_Rev.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/misc/StrigTokenizerExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/misc/StrigTokenizerExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/misc/String_Rev_recruicive.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/misc/String_Rev_recruicive.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/misc/SubStrngEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/misc/SubStrngEx.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/misc/SupClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/misc/SupClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/misc/SwapNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/misc/SwapNumbers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/misc/TestAbstClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/misc/TestAbstClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/misc/TestInterfact.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/misc/TestInterfact.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/misc/Top2MostPopularNumberInAnArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/misc/Top2MostPopularNumberInAnArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/misc/TopTwoMostPopular_improved.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/misc/TopTwoMostPopular_improved.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/misc/WritePropertiesExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/misc/WritePropertiesExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/misc/animals.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/misc/animals.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/misc/delete/DigitSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/misc/delete/DigitSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/misc/delete/Fact.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/misc/delete/Fact.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/misc/delete/Rev.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/misc/delete/Rev.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/misc/helper/SampleBean.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/misc/helper/SampleBean.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/misc/prop/testproperties.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/misc/prop/testproperties.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/misc/properties/qwwqconfig.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/misc/properties/qwwqconfig.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/misc/properties/testproperties.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/misc/properties/testproperties.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/my_Implementation/MergeInterval.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/my_Implementation/MergeInterval.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/newPreperation/ArrayRotate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/newPreperation/ArrayRotate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/newPreperation/datastructure/ArrayListImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/newPreperation/datastructure/ArrayListImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/newPreperation/datastructure/BinSearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/newPreperation/datastructure/BinSearch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/newPreperation/datastructure/BinarySearchTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/newPreperation/datastructure/BinarySearchTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/newPreperation/datastructure/SingleLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/newPreperation/datastructure/SingleLinkedList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/newPreperation/datastructure/SingleLinkedListImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/newPreperation/datastructure/SingleLinkedListImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/newPreperation/datastructure/SumLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/newPreperation/datastructure/SumLinkedList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/newPreperation/datastructure/linkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/newPreperation/datastructure/linkedList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/newPreperation/datastructure/linkedList_Reverse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/newPreperation/datastructure/linkedList_Reverse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/newPreperation/jan1st2020/AnagramCheck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/newPreperation/jan1st2020/AnagramCheck.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/newPreperation/jan1st2020/ArrayListImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/newPreperation/jan1st2020/ArrayListImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/newPreperation/jan1st2020/ArrayReversal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/newPreperation/jan1st2020/ArrayReversal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/newPreperation/jan1st2020/ArrayShift.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/newPreperation/jan1st2020/ArrayShift.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/newPreperation/jan1st2020/BinarySearchTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/newPreperation/jan1st2020/BinarySearchTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/newPreperation/jan1st2020/BinarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/newPreperation/jan1st2020/BinarySearch.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/newPreperation/jan1st2020/CheckMiddleOfLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/newPreperation/jan1st2020/CheckMiddleOfLinkedList.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/newPreperation/jan1st2020/DepthOfBST.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/newPreperation/jan1st2020/DepthOfBST.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/newPreperation/jan1st2020/MaxSumSubArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/newPreperation/jan1st2020/MaxSumSubArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/newPreperation/jan1st2020/MergeInterval.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/newPreperation/jan1st2020/MergeInterval.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/newPreperation/jan1st2020/MiddleOfLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/newPreperation/jan1st2020/MiddleOfLinkedList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/newPreperation/jan1st2020/MissingNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/newPreperation/jan1st2020/MissingNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/newPreperation/jan1st2020/ReverseLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/newPreperation/jan1st2020/ReverseLinkedList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/newPreperation/jan1st2020/RomanToInteger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/newPreperation/jan1st2020/RomanToInteger.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/newPreperation/jan1st2020/StringToNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/newPreperation/jan1st2020/StringToNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/newPreperation/jan1st2020/basics/DigiSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/newPreperation/jan1st2020/basics/DigiSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/newPreperation/jan1st2020/basics/EqualAndHashCodeOverride.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/newPreperation/jan1st2020/basics/EqualAndHashCodeOverride.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/newPreperation/jan1st2020/basics/Factorial.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/newPreperation/jan1st2020/basics/Factorial.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/newPreperation/jan1st2020/basics/Fibo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/newPreperation/jan1st2020/basics/Fibo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/newPreperation/jan1st2020/basics/GoodNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/newPreperation/jan1st2020/basics/GoodNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/newPreperation/jan1st2020/basics/MostPopularNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/newPreperation/jan1st2020/basics/MostPopularNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/newPreperation/jan1st2020/basics/NumReverse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/newPreperation/jan1st2020/basics/NumReverse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/newPreperation/jan1st2020/basics/PerfectNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/newPreperation/jan1st2020/basics/PerfectNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/newPreperation/jan1st2020/basics/RemoveDups.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/newPreperation/jan1st2020/basics/RemoveDups.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/newPreperation/jan1st2020/basics/StrRev.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/newPreperation/jan1st2020/basics/StrRev.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/newPreperation/mid_level/ArrayRotate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/newPreperation/mid_level/ArrayRotate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/newPreperation/sort/SortExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/newPreperation/sort/SortExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/newPreperation/sort/comparable/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/newPreperation/sort/comparable/Dog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/newPreperation/sort/comparable/SortByAge.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/newPreperation/sort/comparable/SortByAge.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/newPreperation/sort/comparator/GradeComparator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/newPreperation/sort/comparator/GradeComparator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/newPreperation/sort/comparator/MainComparatorExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/newPreperation/sort/comparator/MainComparatorExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/newPreperation/sort/comparator/NameComparator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/newPreperation/sort/comparator/NameComparator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/newPreperation/sort/comparator/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/newPreperation/sort/comparator/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/newPreperation/sort/comparator_vs_comparable.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/newPreperation/sort/comparator_vs_comparable.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/prop/testproperties.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/prop/testproperties.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/properties/propread.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/properties/propread.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/properties/testproperties.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/properties/testproperties.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/reflect/AccessPrivate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/reflect/AccessPrivate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/reflect/SampleClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/reflect/SampleClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/restAssured/RestAssuredSampleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/restAssured/RestAssuredSampleTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/testnge2e/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/testnge2e/Calculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/testnge2e/DataProvidr.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/testnge2e/DataProvidr.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/testnge2e/TestCalc.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/testnge2e/TestCalc.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/testnge2e/custanno/DataSet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/testnge2e/custanno/DataSet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/testnge2e/custanno/MyTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/testnge2e/custanno/MyTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/testnge2e/custanno/MyTestNGAnnotation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/testnge2e/custanno/MyTestNGAnnotation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/testnge2e/custanno/MyTestNGAnnotationListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/testnge2e/custanno/MyTestNGAnnotationListener.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/testnge2e/custanno/SampleSuite" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/testnge2e/custanno/SampleSuite" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/testnge2e/custanno/testme/SsmpleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/testnge2e/custanno/testme/SsmpleTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/testnge2e/factory/Test1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/testnge2e/factory/Test1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/testnge2e/factory/Test2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/testnge2e/factory/Test2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/testnge2e/factory/TestNGFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/testnge2e/factory/TestNGFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/testnge2e/suite.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/testnge2e/suite.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/thread/SyncBlockExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/thread/SyncBlockExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/thread/SyncMethodExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/thread/SyncMethodExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/trash/Grasshopper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/trash/Grasshopper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/trash/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/trash/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/features/CalcFeature.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/CalcFeature.feature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/sql&amp;unix/Git_Command.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/sql&amp;unix/Git_Command.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/sql&amp;unix/my_queries.sql" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/sql&amp;unix/my_queries.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/newPreperation/jan1st2020/basics/FindGCD.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/newPreperation/jan1st2020/basics/FindGCD.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/sql&amp;unix/unixcommand.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/sql&amp;unix/unixcommand.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/test.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -215,11 +54,17 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Kotlin Class" />
         <option value="Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="feb-2022" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitSEFilterConfiguration">
@@ -230,29 +75,49 @@
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7
+}]]></component>
   <component name="ProjectId" id="24WsqMZqmqjj3MQkX3JIoTFKVJo" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="nodejs_package_manager_path" value="npm" />
-    <property name="project.structure.last.edited" value="Project" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
-  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "CAZH-1241-Test",
+    "last_opened_file_path": "/Users/achatterjee/MyPersonal/Practice/testautomation",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
   <component name="RecentsManager">
-    <key name="CopyClassDialog.RECENTS_KEY">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/java/FB_Google/basics/simpleexample" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="FB_Google.basics.collection" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="may2023.newexcercises" />
+      <recent name="FB_Google.basics.simpleexample" />
+      <recent name="FB_Google.basics.collection" />
+      <recent name="FB_Google.basics.Revision.may" />
+      <recent name="FB_Google.basics.simpleexample.practice.new1" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.ContinuousSubarraySum">
-    <configuration name="ContinuousSubarraySum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FB_Google.basics.simpleexample.ContinuousSubarraySum" />
+  <component name="RunManager" selected="Application.OceanView">
+    <configuration name="OceanView" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FB_Google.basics.simpleexample.OceanView" />
       <module name="testautomation" />
       <extension name="coverage">
         <pattern>
@@ -264,8 +129,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CopyListwithRandomPointer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FB_Google.basics.simpleexample.CopyListwithRandomPointer" />
+    <configuration name="Revision" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="may2023.newexcercises.Revision" />
+      <module name="testautomation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="may2023.newexcercises.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SimplifiedPath" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FB_Google.basics.simpleexample.SimplifiedPath" />
       <module name="testautomation" />
       <extension name="coverage">
         <pattern>
@@ -277,8 +155,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FindPeekElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FB_Google.basics.simpleexample.FindPeekElement" />
+    <configuration name="SparseVector" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FB_Google.basics.simpleexample.SparseVector" />
       <module name="testautomation" />
       <extension name="coverage">
         <pattern>
@@ -290,21 +168,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MaximumSwap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FB_Google.basics.simpleexample.MaximumSwap" />
-      <module name="testautomation" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="FB_Google.basics.simpleexample.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TopKFrequentElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FB_Google.basics.simpleexample.TopKFrequentElement" />
+    <configuration name="StringToNum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FB_Google.basics.simpleexample.StringToNum" />
       <module name="testautomation" />
       <extension name="coverage">
         <pattern>
@@ -322,6 +187,7 @@
         <option name="myRunnerSettings" />
         <option name="myRunnerParameters">
           <MavenRunnerParameters>
+            <option name="cmdOptions" />
             <option name="profiles">
               <set />
             </option>
@@ -338,6 +204,9 @@
             <option name="profilesMap">
               <map />
             </option>
+            <option name="projectsCmdOptionValues">
+              <list />
+            </option>
             <option name="resolveToWorkspace" value="false" />
             <option name="workingDirPath" value="$PROJECT_DIR$" />
           </MavenRunnerParameters>
@@ -346,20 +215,20 @@
       <method v="2" />
     </configuration>
     <list>
+      <item itemvalue="Application.OceanView" />
+      <item itemvalue="Application.SparseVector" />
+      <item itemvalue="Application.StringToNum" />
+      <item itemvalue="Application.SimplifiedPath" />
+      <item itemvalue="Application.Revision" />
       <item itemvalue="Maven.Install" />
-      <item itemvalue="Application.TopKFrequentElement" />
-      <item itemvalue="Application.MaximumSwap" />
-      <item itemvalue="Application.FindPeekElement" />
-      <item itemvalue="Application.CopyListwithRandomPointer" />
-      <item itemvalue="Application.ContinuousSubarraySum" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ContinuousSubarraySum" />
-        <item itemvalue="Application.CopyListwithRandomPointer" />
-        <item itemvalue="Application.FindPeekElement" />
-        <item itemvalue="Application.MaximumSwap" />
-        <item itemvalue="Application.TopKFrequentElement" />
+        <item itemvalue="Application.OceanView" />
+        <item itemvalue="Application.Revision" />
+        <item itemvalue="Application.SimplifiedPath" />
+        <item itemvalue="Application.SparseVector" />
+        <item itemvalue="Application.StringToNum" />
       </list>
     </recent_temporary>
   </component>
@@ -375,7 +244,44 @@
       <workItem from="1643825565336" duration="2012000" />
       <workItem from="1643827738700" duration="63695000" />
       <workItem from="1644431247909" duration="62905000" />
-      <workItem from="1644778842033" duration="29983000" />
+      <workItem from="1644778842033" duration="35915000" />
+      <workItem from="1645059292153" duration="71647000" />
+      <workItem from="1645897768738" duration="7042000" />
+      <workItem from="1646070617906" duration="758000" />
+      <workItem from="1646078474749" duration="2236000" />
+      <workItem from="1646091173439" duration="8319000" />
+      <workItem from="1646166300597" duration="589000" />
+      <workItem from="1646271829353" duration="75000" />
+      <workItem from="1646329896867" duration="113187000" />
+      <workItem from="1648171159842" duration="844000" />
+      <workItem from="1648251676354" duration="372000" />
+      <workItem from="1648500698251" duration="1489000" />
+      <workItem from="1650243216900" duration="1877000" />
+      <workItem from="1650390602713" duration="6620000" />
+      <workItem from="1650644294285" duration="605000" />
+      <workItem from="1650736358356" duration="4138000" />
+      <workItem from="1652548010602" duration="152032000" />
+      <workItem from="1655233500033" duration="1192000" />
+      <workItem from="1656535780836" duration="376000" />
+      <workItem from="1656536193727" duration="551000" />
+      <workItem from="1657816701630" duration="1500000" />
+      <workItem from="1669743052130" duration="22886000" />
+      <workItem from="1671139108866" duration="346000" />
+      <workItem from="1674240272395" duration="2289000" />
+      <workItem from="1675044808967" duration="547000" />
+      <workItem from="1675971276830" duration="1524000" />
+      <workItem from="1682973088345" duration="3122000" />
+      <workItem from="1682982665762" duration="18191000" />
+      <workItem from="1683129599315" duration="61903000" />
+      <workItem from="1684622169642" duration="477000" />
+      <workItem from="1685409994150" duration="598000" />
+      <workItem from="1685920219067" duration="994000" />
+      <workItem from="1686368823942" duration="18408000" />
+      <workItem from="1687361381574" duration="37793000" />
+      <workItem from="1687947707102" duration="21344000" />
+      <workItem from="1688572285564" duration="152000" />
+      <workItem from="1689150811042" duration="11000" />
+      <workItem from="1695578955532" duration="44000" />
     </task>
     <servers />
   </component>
@@ -392,7 +298,6 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -403,21 +308,6 @@
           <option name="timeStamp" value="11" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/FB_Google/basics/simpleexample/SimpleArraySum.java</url>
-          <line>31</line>
-          <option name="timeStamp" value="32" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/FB_Google/basics/simpleexample/LongestPalindrome.java</url>
-          <line>17</line>
-          <option name="timeStamp" value="48" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/FB_Google/basics/simpleexample/LongestPalindrome.java</url>
-          <line>28</line>
-          <option name="timeStamp" value="50" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/test/java/FB_Google/basics/simpleexample/ReverseInteger.java</url>
           <line>34</line>
           <option name="timeStamp" value="51" />
@@ -426,11 +316,6 @@
           <url>file://$PROJECT_DIR$/src/test/java/FB_Google/basics/simpleexample/practice/longestSubString.java</url>
           <line>39</line>
           <option name="timeStamp" value="52" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/FB_Google/basics/simpleexample/RomanToInteger.java</url>
-          <line>25</line>
-          <option name="timeStamp" value="54" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/test/java/newPreperation/jan1st2020/StringToNumber.java</url>
@@ -453,39 +338,9 @@
           <option name="timeStamp" value="68" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/FB_Google/basics/simpleexample/OceanView.java</url>
-          <line>42</line>
-          <option name="timeStamp" value="69" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/test/java/FB_Google/basics/collection/LevelOrderBinTree.java</url>
           <line>33</line>
           <option name="timeStamp" value="70" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/FB_Google/basics/simpleexample/SparseVector.java</url>
-          <line>40</line>
-          <option name="timeStamp" value="73" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/FB_Google/basics/simpleexample/SubArraySum.java</url>
-          <line>43</line>
-          <option name="timeStamp" value="76" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/FB_Google/basics/simpleexample/KClosestPointsToOrigin.java</url>
-          <line>33</line>
-          <option name="timeStamp" value="79" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/FB_Google/basics/simpleexample/KClosestPointsToOrigin.java</url>
-          <line>13</line>
-          <option name="timeStamp" value="80" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/FB_Google/basics/simpleexample/KClosestPointsToOrigin.java</url>
-          <line>21</line>
-          <option name="timeStamp" value="81" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/test/java/FB_Google/basics/collection/DoublyLinkedList.java</url>
@@ -499,18 +354,8 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/test/java/FB_Google/basics/collection/DoublyLinkedList.java</url>
-          <line>126</line>
-          <option name="timeStamp" value="103" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/FB_Google/basics/collection/DoublyLinkedList.java</url>
           <line>167</line>
           <option name="timeStamp" value="104" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/FB_Google/basics/collection/DoublyLinkedList.java</url>
-          <line>119</line>
-          <option name="timeStamp" value="105" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/test/java/FB_Google/basics/collection/DoublyLinkedList.java</url>
@@ -533,36 +378,6 @@
           <option name="timeStamp" value="109" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/FB_Google/basics/collection/BinaryTreeToCircularLL.java</url>
-          <line>76</line>
-          <option name="timeStamp" value="117" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/FB_Google/basics/collection/BinaryTreeToCircularLL.java</url>
-          <line>72</line>
-          <option name="timeStamp" value="118" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/FB_Google/basics/collection/BinaryTreeToCircularLL.java</url>
-          <line>23</line>
-          <option name="timeStamp" value="119" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/FB_Google/basics/collection/BinaryTreeToCircularLL.java</url>
-          <line>34</line>
-          <option name="timeStamp" value="120" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/FB_Google/basics/simpleexample/SimplifiedPath.java</url>
-          <line>37</line>
-          <option name="timeStamp" value="138" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/FB_Google/basics/simpleexample/PowerOfXn.java</url>
-          <line>34</line>
-          <option name="timeStamp" value="143" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/test/java/FB_Google/basics/simpleexample/practice/BasicCalc.java</url>
           <line>42</line>
           <option name="timeStamp" value="152" />
@@ -571,11 +386,6 @@
           <url>file://$PROJECT_DIR$/src/test/java/FB_Google/basics/simpleexample/practice/LongestCommonSubString.java</url>
           <line>38</line>
           <option name="timeStamp" value="155" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/FB_Google/basics/simpleexample/LongestCommonSubstring.java</url>
-          <line>37</line>
-          <option name="timeStamp" value="156" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/test/java/FB_Google/basics/simpleexample/practice/BinaryTree.java</url>
@@ -589,38 +399,568 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/test/java/FB_Google/basics/simpleexample/MergeIntervals.java</url>
-          <line>48</line>
+          <line>51</line>
           <option name="timeStamp" value="170" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/FB_Google/basics/simpleexample/AddStrings.java</url>
-          <line>52</line>
-          <option name="timeStamp" value="174" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/FB_Google/basics/simpleexample/AddStrings.java</url>
-          <line>44</line>
-          <option name="timeStamp" value="175" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/test/java/FB_Google/basics/simpleexample/NextPermutationNumber.java</url>
-          <line>71</line>
+          <line>94</line>
           <option name="timeStamp" value="191" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/test/java/FB_Google/basics/simpleexample/NextPermutationNumber.java</url>
-          <line>51</line>
+          <line>76</line>
           <option name="timeStamp" value="193" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/test/java/FB_Google/basics/simpleexample/NextPermutationNumber.java</url>
-          <line>43</line>
+          <line>68</line>
           <option name="timeStamp" value="194" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/FB_Google/basics/simpleexample/ContinuousSubarraySum.java</url>
+          <url>file://$PROJECT_DIR$/src/test/java/FB_Google/basics/simpleexample/practice/new1/BT.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="218" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/FB_Google/basics/simpleexample/practice/new1/Add2StringNumber.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="220" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/FB_Google/basics/simpleexample/practice/new1/Add2StringNumber.java</url>
+          <line>41</line>
+          <option name="timeStamp" value="221" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/FB_Google/basics/simpleexample/practice/new1/BasicCalculator.java</url>
+          <line>67</line>
+          <option name="timeStamp" value="225" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/FB_Google/basics/simpleexample/practice/new1/BasicCalculator.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="228" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/FB_Google/basics/simpleexample/practice/new1/BasicCalculator.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="229" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/FB_Google/basics/simpleexample/practice/new1/ContinousSubArraySum.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="230" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/FB_Google/basics/simpleexample/practice/new1/CopyLinkedList.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="232" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/FB_Google/basics/simpleexample/practice/new1/CustSort.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="236" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/FB_Google/basics/simpleexample/practice/new1/LongestCommon.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="245" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/FB_Google/basics/simpleexample/practice/new1/MergeInt.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="247" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/FB_Google/basics/simpleexample/practice/new1/ParenthsAdjst.java</url>
+          <line>45</line>
+          <option name="timeStamp" value="255" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/FB_Google/basics/simpleexample/practice/new1/ParenthsAdjst.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="256" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/FB_Google/basics/simpleexample/practice/new1/TopKFreq.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="265" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/FB_Google/basics/simpleexample/practice/new1/TopKFreq.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="267" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/FB_Google/basics/simpleexample/practice/collection/Doublelnklst.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="272" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/FB_Google/basics/simpleexample/practice/new1/LlRev.java</url>
+          <line>54</line>
+          <option name="timeStamp" value="276" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/newPreperation/march2022/Anagram.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="277" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/newPreperation/march2022/Anagram.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="278" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/newPreperation/jan1st2020/MaxSumSubArray.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="280" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/newPreperation/jan1st2020/MissingNumber.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="281" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/newPreperation/jan1st2020/DepthOfBST.java</url>
+          <line>87</line>
+          <option name="timeStamp" value="284" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/FB_Google/basics/simpleexample/practice/StrSum.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="291" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/FB_Google/basics/simpleexample/practice/BasCalc.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="292" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/FB_Google/basics/simpleexample/practice/LongestCommon.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="308" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/FB_Google/basics/simpleexample/practice/LongPalin.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="315" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/FB_Google/basics/simpleexample/practice/LongPalin.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="319" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/FB_Google/basics/simpleexample/practice/Perm.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="331" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/FB_Google/basics/simpleexample/practice/OCVU.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="332" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/FB_Google/basics/simpleexample/practice/OCVU.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="333" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/FB_Google/basics/simpleexample/practice/RtoN.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="334" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/misc/TopTwoMostPopular_improved.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="350" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/FB_Google/basics/Revision/simple/GCD.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="366" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/FB_Google/basics/Revision/simple/GoodNumber.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="369" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/FB_Google/basics/Revision/simple/NumOfOccurrance.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="370" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/FB_Google/basics/Revision/simple/fb/AddString.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="371" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/FB_Google/basics/Revision/simple/fb/BasicCalc.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="374" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/FB_Google/basics/Revision/simple/fb/ContinousSubArray.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="377" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/FB_Google/basics/Revision/simple/fb/LongestPalinodrome.java</url>
           <line>43</line>
-          <option name="timeStamp" value="205" />
+          <option name="timeStamp" value="379" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/FB_Google/basics/Revision/simple/fb/LongestCOmmon.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="380" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/FB_Google/basics/Revision/simple/fb/OceanView.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="384" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/FB_Google/basics/Revision/April/CustomSortString.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="388" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/FB_Google/basics/simpleexample/HCFLCM.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="389" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/FB_Google/basics/simpleexample/HCFLCM.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="390" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/FB_Google/basics/Revision/April/KClosest.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="392" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/FB_Google/basics/Revision/may/SimplifiedPath.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="398" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/FB_Google/basics/simpleexample/practice/Parenth.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="401" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/newPreperation/march2022/Anagram.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="402" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/FB_Google/basics/Revision/may/AddStrings.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="409" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/FB_Google/basics/Revision/may/BasicCalc.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="415" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/FB_Google/basics/Revision/may/BasicCalc.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="416" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/FB_Google/basics/Revision/may/CustomSorting.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="417" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/FB_Google/basics/simpleexample/LongestSubString.java</url>
+          <line>57</line>
+          <option name="timeStamp" value="418" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/FB_Google/basics/Revision/may/LongSubString.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="419" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/FB_Google/basics/simpleexample/NextPermutationNumber.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="420" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/FB_Google/basics/Revision/may/MaxSwap.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="425" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/FB_Google/basics/Revision/may/MergInt.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="426" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/FB_Google/basics/Revision/may/NextPerm.java</url>
+          <line>49</line>
+          <option name="timeStamp" value="431" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/FB_Google/basics/Revision/may/NextPerm.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="434" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/FB_Google/basics/Revision/may/collection/LinledList.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="436" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/FB_Google/basics/Revision/may/ArrayShift.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="437" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/FB_Google/basics/Revision/may/ArrayShift.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="438" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/FB_Google/basics/Revision/may/collection/BinaryTree.java</url>
+          <line>44</line>
+          <option name="timeStamp" value="441" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/FB_Google/basics/Revision/may/SubArraySum.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="442" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/FB_Google/basics/Revision/may/trash/NextPerm.java</url>
+          <line>41</line>
+          <option name="timeStamp" value="444" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/FB_Google/basics/Revision/may/trash/contSub.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="445" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/FB_Google/basics/Revision/may/trash/CustSort.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="446" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/FB_Google/basics/Revision/may/OeVu.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="448" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/FB_Google/basics/Revision/may/kthClose.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="449" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/FB_Google/basics/Revision/may/collection/LIRev.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="450" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/FB_Google/basics/Revision/may/collection/LIRev.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="451" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/FB_Google/basics/Revision/may/collection/LIRev.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="452" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/FB_Google/basics/Revision/may/trash/removeParen.java</url>
+          <line>48</line>
+          <option name="timeStamp" value="456" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/FB_Google/basics/Revision/may/trash/removeParen.java</url>
+          <line>74</line>
+          <option name="timeStamp" value="457" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/FB_Google/basics/collection/BinaryTreeTraversal.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="460" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/FB_Google/basics/simpleexample/CustomSortString.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="463" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/FB_Google/basics/simpleexample/KthLowestNew.java</url>
+          <line>54</line>
+          <option name="timeStamp" value="466" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/FB_Google/basics/simpleexample/SimplifiedPath.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="467" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/FB_Google/basics/Solution.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="468" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/FB_Google/basics/simpleexample/deceober/AddString.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="474" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/FB_Google/basics/simpleexample/deceober/BasicCalc.java</url>
+          <line>61</line>
+          <option name="timeStamp" value="477" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/FB_Google/basics/simpleexample/BasicCalculator.java</url>
+          <line>67</line>
+          <option name="timeStamp" value="478" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/FB_Google/basics/simpleexample/deceober/KthClosest.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="485" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/FB_Google/basics/simpleexample/deceober/KthLargestAndSmallest.java</url>
+          <line>51</line>
+          <option name="timeStamp" value="488" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/FB_Google/basics/simpleexample/KthLowestNew.java</url>
+          <line>64</line>
+          <option name="timeStamp" value="490" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/FB_Google/basics/simpleexample/KthLowestNew.java</url>
+          <line>63</line>
+          <option name="timeStamp" value="491" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/FB_Google/basics/simpleexample/BasicCalculator.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="494" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/may2023/newexcercises/ContainerWithMaxArea.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="495" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/may2023/newexcercises/MinCoin.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="500" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/may2023/newexcercises/LongestCommonSubSequence.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="509" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/may2023/newexcercises/LongestConsecutiveNum.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="519" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/may2023/newexcercises/InsertInterval.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="528" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/may2023/newexcercises/InsertInterval.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="529" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/may2023/newexcercises/InsertInterval.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="531" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/may2023/newexcercises/CountBits.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="534" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/may2023/newexcercises/CountBits.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="535" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/may2023/newexcercises/HouseRober2.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="541" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/may2023/existing/ContinousSubArrayMultiple.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="547" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/may2023/newexcercises/ProductOfArray.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="550" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/may2023/revision/ArrayProduct.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="551" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/FB_Google/basics/simpleexample/HCFLCM.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="563" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/may2023/newexcercises/LongestCommonSubString.java</url>
+          <line>45</line>
+          <option name="timeStamp" value="571" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/may2023/newexcercises/LongestCommonSubString.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="572" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/FB_Google/basics/simpleexample/MinAddToMakeValidParanthesis.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="576" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/may2023/newexcercises/TwoSum.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="579" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/FB_Google/basics/simpleexample/ContinousSubArray.java</url>
+          <line>53</line>
+          <option name="timeStamp" value="588" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/FB_Google/basics/simpleexample/SubArraySum.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="592" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/FB_Google/basics/simpleexample/StringToNum.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="594" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/may2023/newexcercises/Revision.java</url>
+          <line>46</line>
+          <option name="timeStamp" value="601" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

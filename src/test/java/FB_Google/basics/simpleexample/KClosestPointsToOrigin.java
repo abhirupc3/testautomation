@@ -8,17 +8,16 @@ import java.util.*;
  */
 public class KClosestPointsToOrigin {
     public static void main(String[] args) {
-        //int x[][] = {{3,3},{-2,4},{5,-1}};
-        int x[][] = {{0,1},{1,0}};
-        int[][] m = new KClosestPointsToOrigin().kClosest(x,2);
-        for(int n=0;n<2;n++ )
+        int x[][] = {{3,3},{-2,4},{5,-1}};
+        //int x[][] = {{0,1},{1,0}};
+        int[][] m = new KClosestPointsToOrigin().kClosest(x,3);
+        for(int n=0;n<3;n++ )
         {
             System.out.println(m[n][0]+","+m[n][1]);
         }
     }
     public  int[][] kClosest(int[][] points, int k) {
        List<Axis> li = new ArrayList<Axis>();
-        int[][] closestPoint ;
         for (int[] point: points)
         {
             int distance = getSquare(point);
@@ -27,15 +26,18 @@ public class KClosestPointsToOrigin {
             li.add(new Axis(xpoint,ypoint,distance));
         }
         int m = 0;
-        Collections.sort(li);
+       // Collections.sort(li);
+       // Collections.sort(li, (a, b) -> Integer.compare(li.get(0).distance, li.get(0).distance));
         int result[][]=new int[k][];
         for (int l=0;l<k;l++)
         {
             result[l]=li.get(l).coordinate;
+            System.out.println(li.get(l).distance);
         }
         return result;
 
     }
+
   class Axis implements Comparable<Axis>{
         int xVal;
         int yVal;

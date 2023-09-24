@@ -32,7 +32,7 @@ import java.util.List;
  */
 public class OceanView {
     public static void main(String[] args) {
-        int[] heights =  {4,3,2,1};
+        int[] heights =  {4,7,4,9};
         printOceanViewBuildings(heights);
     }
 
@@ -40,15 +40,15 @@ public class OceanView {
         List<Integer> buildingList = new ArrayList<Integer>();
         for (int m=0;m<heights.length;m++)
         {
-            while(!buildingList.isEmpty() && buildingList.get(buildingList.size()-1)<heights[m])
+            while(!buildingList.isEmpty() && buildingList.get(0)<heights[m])
             {
-                buildingList.remove(buildingList.size()-1);
+                buildingList.remove(0);
             }
             buildingList.add(heights[m]);
         }
          for(int t=0;t<buildingList.size();t++)
          {
-             System.out.print(buildingList.get(t));
+             System.out.print(buildingList.get(t) +" ");
          }
     }
 }

@@ -15,7 +15,7 @@ public class  SparseVector {
     }
 
     public static void main(String[] args) {
-        int[] nums1 = {1,0,0,2,3}, nums2 = {0,3,0,4,0};
+        int[] nums1 = {1,0,0,2,3}, nums2 = {0,3,0,4,4};
         SparseVector sv1 = new SparseVector(nums1);
         SparseVector sv2 = new SparseVector(nums2);
         int sum = sv1.dotProduct(sv2);

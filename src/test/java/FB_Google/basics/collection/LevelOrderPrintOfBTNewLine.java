@@ -30,7 +30,9 @@ public class LevelOrderPrintOfBTNewLine {
         Queue<BinaryTree.Node> queue = new LinkedList<BinaryTree.Node>();
         queue.add(root);
         queue.add(null);
+        int depth=0;
         while(!queue.isEmpty())
+        //while(true) Also works.
         {
             BinaryTree.Node n = queue.poll();
             if(n==null)
@@ -38,6 +40,7 @@ public class LevelOrderPrintOfBTNewLine {
                 break;
                 queue.add(null);
                 System.out.println("\n");
+                depth++;
                 continue;
             } else{
                 System.out.print(n.data + " ");
@@ -48,5 +51,6 @@ public class LevelOrderPrintOfBTNewLine {
                 queue.add(n.rightNode);
 
         }
+        System.out.println("\n max width is: "+depth);
     }
 }

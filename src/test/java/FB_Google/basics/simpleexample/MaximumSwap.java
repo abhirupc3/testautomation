@@ -5,12 +5,22 @@ package FB_Google.basics.simpleexample;
  * @project testautomation
  * https://leetcode.com/problems/maximum-swap/
  * https://www.youtube.com/watch?v=qHDsgxGywf8
+ * Example 1:
+ *
+ * Input: num = 2736
+ * Output: 7236
+ * Explanation: Swap the number 2 and the number 7.
+ * Example 2:
+ *
+ * Input: num = 9973
+ * Output: 9973
+ * Explanation: No swap.
  */
 public class MaximumSwap {
 
     public static void main(String[] args) {
         MaximumSwap m = new MaximumSwap();
-        int p = m.maximumSwap(1993);
+        int p = m.maximumSwap(5929);
         System.out.println(p);
     }
 

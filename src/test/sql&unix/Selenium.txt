@@ -1,0 +1,42 @@
+
+https://www.youtube.com/watch?v=ph3NJm4Z7m4
+
+
+Eight Eliments:
+
+1.id
+2.name
+3.classname This might get reapeted if dynamic
+4.tagname  Used when wen there is no id, no name no link text.
+5.linktext  This is the text associated with text
+6.partialLinktest This is the part of the link test, provided this is unique.
+7.css  to use this: (By.cssSelector(<Tag>#<idValue>)), (By.cssSelector(<Tag>.<classValue>))
+8.xpath this is a choice when there is no choice, and alos there is all choice then
+       we can go with xpath. This is just a path expression. There are 2 types of x-
+       path, Absolute and relative.
+
+
+
+Fire path is a addon which allows us to test the x-path.
+relative xpath starts with //
+example: //div[@id='nav-tools']/a[@id='nav-link-youraccount']
+
+
+Interview Questions:
+
+https://www.edureka.co/blog/interview-questions/selenium-interview-questions-answers/
+https://www.softwaretestinghelp.com/selenium-interview-questions-answers/
+
+
+Selenium Grid and Hub Tutorial:
+
+https://www.youtube.com/watch?v=P8yq37Qr4eo
+Step 1: Create desiredcapabilities
+DesiredCapabilities dis = new DesiredCapabilities();
+cap.setBrowser("Chrome");
+cap.setPlatform(Platform.wondows);
+Step 2: create chrome Options
+ChromeOptions opt = new ChromeOptions();
+opt.merge(cap);
+Step 3: Create remote web driver:
+webDriver drive = new RemoteWebDriver(new URL("hub url"),opt);

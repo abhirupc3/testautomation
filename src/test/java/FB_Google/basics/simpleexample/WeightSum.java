@@ -58,7 +58,7 @@ public class WeightSum {
     }
 
 }
-class NestedInteger{
+class NestedInteger {
 
     public boolean isInteger() {
         return false;

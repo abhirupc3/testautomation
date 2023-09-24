@@ -9,7 +9,7 @@ package newPreperation.jan1st2020.basics;
 public class FindGCD {
 
 	public static void main(String[] args) {
-		int nums[] = {18,4};
+		int nums[] = {3,6,7};
 		int num1=nums[0];
 		int j=0;
 		for (int i=1;i<nums.length;i++)

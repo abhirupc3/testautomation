@@ -1,39 +1,31 @@
 package FB_Google.basics.simpleexample;
 
+import FB_Google.basics.simpleexample.practice.Powxn;
+
 /**
  * @author achatterjee ON 2/12/22
+ * https://www.youtube.com/watch?v=-3Lt-EwR_Hw
+ * https://www.youtube.com/watch?v=GyL7FJn0gso
  * @project testautomation
  */
 public class PowerOfXn {
     public static void main(String[] args) {
-        PowerOfXn pow = new PowerOfXn();
-        double powRes = pow.pow(34.00515,-3);
-        System.out.println(Math.pow(34.00515,-3));
-        System.out.println("Value is "+powRes);
+        PowerOfXn po = new PowerOfXn();
+        int x =2;
+        int n=3;
+        double resu = po.pow(x,n);
+        resu = n<0 ? 1/resu:resu;
+        System.out.println(resu);
     }
-    boolean isNeg = false;
-    public double pow(double y,double n)
-    {
-    if(n<0) {
-        n = n * -1;
-        isNeg=true;
-    }
-        double result=1;
-        {
-             if(n==0)
-            {
-                return 1;
-            } else if(n%2==0)
-             {
-                 double p = pow(y,n/2);
-                 result = p*p;
-             } else{
-                 double q = pow(y,n-1);
-                 result = y*q;
-             }
-        }
-        if(isNeg==true)
-        result=1/result;
-        return result;
+
+    private int pow(int x, int n) {
+        n = Math.abs(n);
+        if(n==0)
+            return 1;
+        if(n==1)
+            return x;
+        if(n%2==0)
+            return pow(x*x,n/2);
+        return x*pow(x*x,n/2);
     }
 }

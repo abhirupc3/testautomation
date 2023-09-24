@@ -11,6 +11,7 @@ import java.util.Stack;
  */
 public class BinaryTreeTraversal {
     public static void main(String[] args) {
+        BinaryTreeTraversal b = new BinaryTreeTraversal();
         BinaryTree BST = new BinaryTree();
         BST.insert(8);
         BST.insert(3);
@@ -23,6 +24,8 @@ public class BinaryTreeTraversal {
         BST.insert(13);
         List<Integer> li = traverse(BST.root);
         findInRangeNumbers(li);
+        Node n = b.circularLinkedList(li);
+        System.out.println("Completed!");
     }
 
     private static void findInRangeNumbers(List<Integer> li) {
@@ -34,7 +37,7 @@ public class BinaryTreeTraversal {
                 sum=sum+i;
             }
         }
-        System.out.println("Value is: "+sum);
+        System.out.println("\nValue is: "+sum);
     }
 
     private static List traverse(BinaryTree.Node root) {
@@ -54,11 +57,57 @@ public class BinaryTreeTraversal {
                 }
                 temp = st.pop();
                 li.add(temp.data);
-                System.out.println(temp.data);
+                System.out.print(temp.data+" ");
                 temp = temp.rightNode;
 
 
             }
         } return li;
+    }
+
+    //Convert to Circular Linked List
+    Node head;
+    public Node circularLinkedList(List<Integer> li)
+    {
+        for(int data:li)
+        {
+           Node n = new Node(null,data);
+           insert(n);
+        }
+        Node tem = head;
+        while(tem.next!=null)
+        {
+
+            tem=tem.next;
+        }
+        tem.next=head;
+        return head;
+    }
+
+    private void insert(Node n) {
+        Node temp = head;
+        if(temp==null)
+        {
+            head=n;
+            return;
+        }
+        while(temp.next!=null)
+        {
+
+            temp=temp.next;
+        }
+        temp.next=n;
+    }
+
+
+    class Node {
+       Node next;
+       Object data;
+       public Node( Node next,Object data)
+       {
+           this.next=next;
+           this.data=data;
+       }
+
     }
 }

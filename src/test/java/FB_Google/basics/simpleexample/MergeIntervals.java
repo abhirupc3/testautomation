@@ -10,11 +10,14 @@ public class MergeIntervals {
     public static void main(String[] args) {
         int[][] intervals = {{1,4},{2,3}};
         MergeIntervals mi = new MergeIntervals();
-        mi.merge(intervals);
+        int[][] res = mi.merge(intervals);
+        for(int p=0; p<res.length;p++)
+        {
+            System.out.println("["+res[p][0]+","+res[p][1]+"]");
+        }
     }
     public int[][] merge(int[][] intervals) {
         int[][] mergedInt ;
-        Map<Integer,Integer> mp = new HashMap<>();
         Stack<Interval> resultSt = new Stack<>();
         List<Interval> xList = new ArrayList<>();
     for(int count =0 ;count<intervals.length;count++)

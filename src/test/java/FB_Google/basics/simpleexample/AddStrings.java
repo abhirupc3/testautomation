@@ -19,9 +19,9 @@ package FB_Google.basics.simpleexample;
 public class AddStrings {
     public static void main(String[] args) {
         AddStrings as = new AddStrings();
-        String num1 =  "123456789", num2 = "123";
+        String num1 =  "11", num2 = "123";
         String res = as.addStrings(num1,num2);
-        System.out.println(res);
+        System.out.println("The output is: "+res);
     }
     public String addStrings(String num1, String num2) {
 

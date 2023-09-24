@@ -9,7 +9,7 @@ package newPreperation.jan1st2020.basics;
 public class Fibo {
 	public static void main(String[] args) {
 		int input = 8;
-		printFibo(input);
+		//printFibo(input);
 		for(int i=0;i<8;i++)
 		{
 			System.out.println(printFiboRec(i));

@@ -51,8 +51,9 @@ public class DepthOfBST {
 		bst.insert(13);
 		bst.insert(11);
 		bst.insert(15);
-		int depth = findDepth(bst.head);
-		System.out.println("The value of BST depth is: "+depth);
+		//int depth = findDepth(bst.head);
+		bst.printDepth(bst.head);
+		//System.out.println("The value of BST depth is: "+depth);
 		
 	}
 	private static int findDepth(Node start) {
@@ -65,7 +66,7 @@ public class DepthOfBST {
 		Node rightNode = start.right;
 		left=findDepth(leftNode);
 		right=findDepth(rightNode);
-		System.out.println("right node is:"+right);
+		//System.out.println("right node is:"+right);
 		if(left>right)
 			depth = left+1;
 		else
@@ -73,5 +74,20 @@ public class DepthOfBST {
 		return depth;
 		
 		
+	}
+
+	public int printDepth(Node node)
+	{
+		int res=0;
+		if(node==null)
+			return 0;
+		else{
+			int l = printDepth(node.left);
+			int r  = printDepth(node.right);
+			res = Math.max(l,r);
+			System.out.println("The depth is: "+ res+1);
+		}
+
+		return res;
 	}
 }

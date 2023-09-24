@@ -1,11 +1,12 @@
 package misc;
 
+import java.util.Collections;
 import java.util.HashMap;
 import java.util.Map;
 
 public class TopTwoMostPopular_improved{
  public static void main(String[] args) {
-	int num[] = {1,47,3,6,5,4,3,4,3,3,2,11,2};
+	int num[] = {1,2,2,3,3,3,5,5,5,5,5,4};
 	findTwoMostPop(num);
 }
 
